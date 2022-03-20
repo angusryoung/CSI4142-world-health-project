@@ -1,0 +1,145 @@
+Country_key,Name,Region,Continent,Currency,Capital,Total_population,Population_growth_percent,Total_labour_force,Birth_rate,Death_rate,GNI_per_capita,Income_group
+1000,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,139035505.0,1.48474696408995,53123178.0,24.053,6.205,550.0,Lower middle income
+1001,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,140921154.0,1.34712103146787,54083636.0,23.384,6.092,570.0,Lower middle income
+1002,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,142660381.0,1.22663050489361,54954286.0,22.747,5.987,610.0,Lower middle income
+1003,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,144304164.0,1.14564743804678,55799460.0,22.153,5.892,660.0,Lower middle income
+1004,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,145924795.0,1.11680643452794,56639145.0,21.605,5.807,730.0,Lower middle income
+1005,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,147575433.0,1.1248068966134,57493263.0,21.107,5.734,800.0,Lower middle income
+1006,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,149273134.0,1.14382867124819,58436990.0,20.657,5.673,890.0,Lower middle income
+1007,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,151005733.0,1.15400610453827,59377977.0,20.245,5.625,970.0,Lower middle income
+1008,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,152761413.0,1.15595091365323,60318372.0,19.862,5.589,1040.0,Lower middle income
+1009,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,154517385.0,1.1429302161114,61262254.0,19.501,5.565,1110.0,Lower middle income
+1010,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,156256287.0,1.11909103277687,62203550.0,19.156,5.549,1220.0,Lower middle income
+1011,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,157977151.0,1.09528840382819,63131472.0,18.824,5.539,1370.0,Lower middle income
+1012,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,159685421.0,1.07553524898766,66854855.0,18.501,5.533,1520.0,Lower middle income
+1013,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,161376713.0,1.05357030023873,68073235.0,18.184,5.529,1750.0,Lower middle income
+1014,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,163046173.0,1.02919664944804,69229775.0,17.868,5.526,1930.0,Lower middle income
+1015,Bangladesh,South Asia,Asia,Bangladeshi taka,Dhaka,164689383.0,1.00277418143487,68412678.0,17.549,5.524,2030.0,Lower middle income
+1016,Canada,North America,North America,Canadian dollar,Ottawa,32243753.0,0.944466927450734,17821886.0,10.6,7.1,34810.0,High income
+1017,Canada,North America,North America,Canadian dollar,Ottawa,32571174.0,1.01033450270045,18030705.0,10.9,7.0,38510.0,High income
+1018,Canada,North America,North America,Canadian dollar,Ottawa,32889025.0,0.971135141368055,18379605.0,11.2,7.1,43090.0,High income
+1019,Canada,North America,North America,Canadian dollar,Ottawa,33247118.0,1.08290711607014,18667574.0,11.3,7.2,45650.0,High income
+1020,Canada,North America,North America,Canadian dollar,Ottawa,33628895.0,1.14175809912162,18799155.0,11.3,7.1,43230.0,High income
+1021,Canada,North America,North America,Canadian dollar,Ottawa,34004889.0,1.11186407517168,19001081.0,11.1,7.0,44490.0,High income
+1022,Canada,North America,North America,Canadian dollar,Ottawa,34339328.0,0.978697786570341,19147395.0,11.0,7.1,47190.0,High income
+1023,Canada,North America,North America,Canadian dollar,Ottawa,34714222.0,1.08581726304756,19322866.0,11.0,7.1,51080.0,High income
+1024,Canada,North America,North America,Canadian dollar,Ottawa,35082954.0,1.05659125917789,19546552.0,10.8,7.2,52800.0,High income
+1025,Canada,North America,North America,Canadian dollar,Ottawa,35437435.0,1.00533757867378,19629145.0,10.8,7.3,52200.0,High income
+1026,Canada,North America,North America,Canadian dollar,Ottawa,35702908.0,0.746339477969813,19747709.0,10.7,7.4,47590.0,High income
+1027,Canada,North America,North America,Canadian dollar,Ottawa,36109487.0,1.13234865466606,19955331.0,10.6,7.4,43890.0,High income
+1028,Canada,North America,North America,Canadian dollar,Ottawa,36545295.0,1.19968215419992,20218270.0,10.3,7.5,42900.0,High income
+1029,Canada,North America,North America,Canadian dollar,Ottawa,37065178.0,1.412548033188,20396697.0,10.1,7.7,45080.0,High income
+1030,Canada,North America,North America,Canadian dollar,Ottawa,37593384.0,1.41501469953534,20788261.0,9.9,7.6,46550.0,High income
+1031,Canada,North America,North America,Canadian dollar,Ottawa,38005238.0,1.08959148655862,20492683.0,10.251,7.831,43580.0,High income
+1032,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,10096630.0,3.64986168707305,3421436.0,49.325,16.636,470.0,Low income
+1033,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,10457122.0,3.50815725715737,3513870.0,48.848,16.295,530.0,Low income
+1034,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,10818031.0,3.39310016650649,3609400.0,48.327,15.909,630.0,Low income
+1035,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,11183589.0,3.32331568496484,3709120.0,47.772,15.489,700.0,Low income
+1036,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,11560142.0,3.31157110166538,3814334.0,47.194,15.047,830.0,Low income
+1037,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,11952134.0,3.33466929345193,3925808.0,46.603,14.598,910.0,Low income
+1038,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,12360986.0,3.3635382470264,4034855.0,46.01,14.161,890.0,Low income
+1039,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,12784748.0,3.37076756399417,4151116.0,45.42,13.752,960.0,Low income
+1040,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,13220433.0,3.35106893405564,4272988.0,44.841,13.38,970.0,Low income
+1041,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,13663562.0,3.29689942062191,4398728.0,44.276,13.053,980.0,Low income
+1042,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,14110971.0,3.22199984419079,4527305.0,43.73,12.77,880.0,Low income
+1043,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,14561658.0,3.14393299725849,4649302.0,43.201,12.527,730.0,Low income
+1044,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,15016761.0,3.07750673636919,4774387.0,42.683,12.309,640.0,Low income
+1045,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,15477727.0,3.02350454795029,4902823.0,42.172,12.104,680.0,Low income
+1046,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,15946882.0,2.98613014725798,5074502.0,41.665,11.907,700.0,Low income
+1047,Chad,Sub-Saharan Africa,Africa,Central African CFA franc,N'Djamena,16425859.0,2.95935371013085,5085739.0,41.161,11.715,630.0,Low income
+1048,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,9109585.0,2.03891508960548,3121797.0,41.956,13.545,360.0,Low income
+1049,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,9307421.0,2.14848830516983,3192631.0,41.501,12.954,400.0,Low income
+1050,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,9518159.0,2.23894087995142,3269621.0,41.048,12.379,470.0,Low income
+1051,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,9738796.0,2.29160483010145,3351766.0,40.598,11.854,620.0,Low income
+1052,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,9964470.0,2.2908270048225,3437284.0,40.153,11.395,670.0,Low income
+1053,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,10192168.0,2.25938161116451,3525211.0,39.713,11.002,690.0,Low income
+1054,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,10420459.0,2.21515030486438,3613639.0,39.278,10.657,680.0,Low income
+1055,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,10652032.0,2.197958681877,3705222.0,38.848,10.331,700.0,Low income
+1056,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,10892821.0,2.23532763160631,3801846.0,38.422,10.003,700.0,Low income
+1057,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,11150970.0,2.34225412440163,3905858.0,38.0,9.67,740.0,Low income
+1058,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,11432096.0,2.4898348435131,4018675.0,37.583,9.337,760.0,Low income
+1059,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,11738434.0,2.64435773103833,4148772.0,37.171,9.013,780.0,Low income
+1060,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,12067516.0,2.764879904347,4288458.0,36.765,8.715,820.0,Low income
+1061,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,12414292.0,2.8331175118102,4435743.0,36.364,8.452,860.0,Low income
+1062,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,12771246.0,2.83478481749442,4588010.0,35.965,8.225,950.0,Low income
+1063,Guinea,Sub-Saharan Africa,Africa,Guinean franc,Conakry,13132792.0,2.79160707922075,4614181.0,35.568,8.033,1020.0,Low income
+1064,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,226289468.0,1.33630464499704,102184327.0,21.765,7.203,1220.0,Lower middle income
+1065,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,229318262.0,1.32958175171436,103776784.0,21.624,7.087,1380.0,Lower middle income
+1066,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,232374239.0,1.32383420748243,108893086.0,21.448,6.965,1600.0,Lower middle income
+1067,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,235469755.0,1.32333051767653,110890081.0,21.251,6.849,1940.0,Lower middle income
+1068,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,238620554.0,1.32921737939261,112039660.0,21.034,6.744,2150.0,Lower middle income
+1069,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,241834226.0,1.3377824768766,114596174.0,20.795,6.653,2530.0,Lower middle income
+1070,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,245115988.0,1.34790440280692,117225410.0,20.526,6.579,3010.0,Lower middle income
+1071,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,248451714.0,1.35169978721169,120144188.0,20.225,6.518,3580.0,Lower middle income
+1072,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,251805314.0,1.34077086414715,120972115.0,19.893,6.471,3730.0,Lower middle income
+1073,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,255128076.0,1.31094524538172,122770335.0,19.537,6.437,3620.0,Lower middle income
+1074,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,258383257.0,1.26782970253157,124807236.0,19.165,6.419,3430.0,Lower middle income
+1075,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,261556386.0,1.22059105826764,126206202.0,18.79,6.418,3400.0,Lower middle income
+1076,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,264650969.0,1.17619742367279,129127477.0,18.422,6.433,3530.0,Lower middle income
+1077,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,267670549.0,1.13450697951891,133000453.0,18.072,6.465,3840.0,Lower middle income
+1078,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,270625567.0,1.09792643725552,136202238.0,17.746,6.51,4050.0,Lower middle income
+1079,Indonesia,East Asia & Pacific,Asia,Indonesian rupiah,Jakarta,273523621.0,1.06517898587775,136459585.0,17.448,6.567,3870.0,Lower middle income
+1080,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,106005199.0,1.4158169793862,42869547.0,21.741,4.792,8050.0,Upper middle income
+1081,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,107560155.0,1.4562132376675,44352857.0,21.343,4.869,8690.0,Upper middle income
+1082,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,109170503.0,1.48606353186843,45304973.0,20.973,4.961,9250.0,Upper middle income
+1083,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,110815272.0,1.49536909755127,46199021.0,20.635,5.06,9780.0,Upper middle income
+1084,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,112463886.0,1.47675580253545,47176107.0,20.327,5.163,8820.0,Upper middle income
+1085,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,114092961.0,1.43814066910139,47982609.0,20.042,5.266,9040.0,Upper middle income
+1086,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,115695468.0,1.39478996981758,49035908.0,19.766,5.369,9310.0,Upper middle income
+1087,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,117274156.0,1.35529442643505,50512846.0,19.488,5.471,10050.0,Upper middle income
+1088,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,118827158.0,1.31555760676608,51318641.0,19.198,5.572,10270.0,Upper middle income
+1089,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,120355137.0,1.27768636604222,51780845.0,18.892,5.67,10500.0,Upper middle income
+1090,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,121858251.0,1.24116450246976,52732562.0,18.573,5.763,10160.0,Upper middle income
+1091,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,123333379.0,1.20325950587092,53507498.0,18.245,5.851,9390.0,Upper middle income
+1092,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,124777326.0,1.16396694963579,54096291.0,17.918,5.933,8920.0,Upper middle income
+1093,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,126190782.0,1.12641479134149,55190039.0,17.602,6.01,9180.0,Upper middle income
+1094,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,127575529.0,1.09136688717461,56596004.0,17.297,6.082,9470.0,Upper middle income
+1095,Mexico,Latin America & Caribbean,North America,Mexican peso,Mexico City,128932753.0,1.05824003448927,53080123.0,17.005,6.15,8480.0,Upper middle income
+1096,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,86326251.0,1.88936545844739,33464924.0,27.372,5.469,1380.0,Lower middle income
+1097,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,87888675.0,1.79372218827953,34249911.0,26.823,5.478,1490.0,Lower middle income
+1098,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,89405482.0,1.71110434098395,35058171.0,26.307,5.497,1720.0,Lower middle income
+1099,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,90901967.0,1.65996399032321,35888907.0,25.841,5.529,2010.0,Lower middle income
+1100,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,92414161.0,1.64985843674273,37096210.0,25.422,5.572,2170.0,Lower middle income
+1101,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,93966784.0,1.6661133640265,38102681.0,25.024,5.623,2370.0,Lower middle income
+1102,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,95570049.0,1.69181178702327,39471864.0,24.602,5.674,2520.0,Lower middle income
+1103,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,97212639.0,1.70412578861596,40032101.0,24.12,5.719,2860.0,Lower middle income
+1104,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,98871558.0,1.69208799737211,40722802.0,23.562,5.754,3160.0,Lower middle income
+1105,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,100513137.0,1.64668215233623,42086989.0,22.935,5.78,3330.0,Lower middle income
+1106,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,102113206.0,1.57936252126472,42464441.0,22.273,5.798,3380.0,Lower middle income
+1107,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,103663812.0,1.50710255674413,43465682.0,21.623,5.815,3450.0,Lower middle income
+1108,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,105172921.0,1.44527760718223,42626395.0,21.036,5.839,3530.0,Lower middle income
+1109,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,106651394.0,1.39596533979435,43426313.0,20.546,5.873,3710.0,Lower middle income
+1110,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,108116622.0,1.36449622326603,44679340.0,20.166,5.92,3850.0,Lower middle income
+1111,Philippines,East Asia & Pacific,Asia,Philippine peso,Manila,109581085.0,1.34542996462104,41971346.0,19.89,5.979,3430.0,Lower middle income
+1112,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,5611643.0,2.59726914662684,1875088.0,39.321,11.929,400.0,Low income
+1113,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,5762881.0,2.65939767419675,1924910.0,39.007,11.629,410.0,Low income
+1114,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,5920360.0,2.69597345840379,1976961.0,38.626,11.291,420.0,Low income
+1115,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,6083417.0,2.71692868326481,2031082.0,38.193,10.926,470.0,Low income
+1116,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,6250840.0,2.71493100269683,2087243.0,37.717,10.548,530.0,Low income
+1117,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,6421674.0,2.6962976659218,2145451.0,37.207,10.175,560.0,Low income
+1118,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,6595939.0,2.67753252488233,2204745.0,36.673,9.826,610.0,Low income
+1119,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,6773807.0,2.66091060739875,2266629.0,36.125,9.514,590.0,Low income
+1120,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,6954721.0,2.63574468461472,2331011.0,35.574,9.244,620.0,Low income
+1121,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,7137997.0,2.60114952364707,2397717.0,35.032,9.02,640.0,Low income
+1122,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,7323162.0,2.56099971332713,2466671.0,34.51,8.841,640.0,Low income
+1123,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,7509952.0,2.51868723622311,2536878.0,34.016,8.695,670.0,Low income
+1124,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,7698476.0,2.47933129149683,2609095.0,33.55,8.568,720.0,Low income
+1125,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,7889095.0,2.44590389318048,2683601.0,33.113,8.446,880.0,Low income
+1126,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,8082359.0,2.42023592434892,2760567.0,32.707,8.324,920.0,Low income
+1127,Togo,Sub-Saharan Africa,Africa,West African CFA franc,Lomé,8278737.0,2.40066351625992,2817960.0,32.334,8.199,920.0,Low income
+1128,United States,North America,North America,U.S. dollar,"Washington, D.C.",295516599.0,0.921713167161207,151976098.0,14.0,8.3,46180.0,High income
+1129,United States,North America,North America,U.S. dollar,"Washington, D.C.",298379912.0,0.964253917136075,153855509.0,14.3,8.1,47850.0,High income
+1130,United States,North America,North America,U.S. dollar,"Washington, D.C.",301231207.0,0.951055242772428,155224880.0,14.3,8.0,48520.0,High income
+1131,United States,North America,North America,U.S. dollar,"Washington, D.C.",304093966.0,0.945865287282592,156907793.0,14.0,8.1,49090.0,High income
+1132,United States,North America,North America,U.S. dollar,"Washington, D.C.",306771529.0,0.876651298802912,157079943.0,13.5,7.9,47830.0,High income
+1133,United States,North America,North America,U.S. dollar,"Washington, D.C.",309327143.0,0.829616674709795,157111093.0,13.0,7.995,49140.0,High income
+1134,United States,North America,North America,U.S. dollar,"Washington, D.C.",311583481.0,0.726786704810745,157163170.0,12.7,8.073,50630.0,High income
+1135,United States,North America,North America,U.S. dollar,"Washington, D.C.",313877662.0,0.733599941250847,157841889.0,12.6,8.102,52780.0,High income
+1136,United States,North America,North America,U.S. dollar,"Washington, D.C.",316059947.0,0.692860276624581,158252925.0,12.4,8.215,53980.0,High income
+1137,United States,North America,North America,U.S. dollar,"Washington, D.C.",318386329.0,0.733361519937424,158910317.0,12.5,8.237,55800.0,High income
+1138,United States,North America,North America,U.S. dollar,"Washington, D.C.",320738994.0,0.73621730882542,159912569.0,12.4,8.44,56640.0,High income
+1139,United States,North America,North America,U.S. dollar,"Washington, D.C.",323071755.0,0.724676067451429,161836238.0,12.2,8.493,57130.0,High income
+1140,United States,North America,North America,U.S. dollar,"Washington, D.C.",325122128.0,0.63264399508256,163395307.0,11.8,8.638,59240.0,High income
+1141,United States,North America,North America,U.S. dollar,"Washington, D.C.",326838199.0,0.526435395564053,164634753.0,11.6,8.678,63490.0,High income
+1142,United States,North America,North America,U.S. dollar,"Washington, D.C.",328329953.0,0.455381285963537,166355636.0,11.4,8.7,65970.0,High income
+1143,United States,North America,North America,U.S. dollar,"Washington, D.C.",329484123.0,0.350911063312921,163738061.0,11.955,8.947,64530.0,High income
