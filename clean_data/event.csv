@@ -1,0 +1,1525 @@
+Event_key,Name,Disaster_group,Disaster_subgroup,Disaster_type,Start_date,End_date,Start_month,End_month,Total_deaths,Num_injured
+1000,,Natural,Geophysical,Earthquake,28.0,28.0,3,3,915.0,1146.0
+1001,,Natural,Meteorological,Storm,20.0,23.0,3,3,79.0,1500.0
+1002,,Technological,Technological,Transport accident,19.0,19.0,2,2,149.0,0
+1003,"Inter city express train ""Meghna""",Technological,Technological,Transport accident,16.0,16.0,1,1,0,200.0
+1004,Garment Factory,Technological,Technological,Industrial accident,6.0,6.0,1,1,22.0,50.0
+1005,,Natural,Geophysical,Earthquake,23.0,23.0,1,1,1.0,4.0
+1006,,Natural,Hydrological,Landslide,21.0,21.0,2,2,143.0,0
+1007,Casa 212,Technological,Technological,Transport accident,22.0,22.0,3,3,15.0,3.0
+1008,,Technological,Technological,Transport accident,13.0,13.0,3,3,33.0,0
+1009,,Natural,Hydrological,Flood,17.0,23.0,2,2,9.0,0
+1010,,Natural,Hydrological,Flood,7.0,11.0,1,1,28.0,8.0
+1011,,Natural,Meteorological,Storm,22.0,24.0,1,1,20.0,0
+1012,,Technological,Technological,Transport accident,7.0,7.0,1,1,9.0,200.0
+1013,,Technological,Technological,Transport accident,5.0,5.0,1,1,12.0,13.0
+1014,Roke (Auring/02W),Natural,Meteorological,Storm,15.0,17.0,3,3,18.0,0
+1015,,Technological,Technological,Transport accident,13.0,14.0,1,1,14.0,28.0
+1016,,Technological,Technological,Transport accident,26.0,26.0,1,1,11.0,180.0
+1017,Raffinerie BP,Technological,Technological,Industrial accident,23.0,23.0,3,3,15.0,170.0
+1018,,Natural,Hydrological,Flood,26.0,27.0,4,4,47.0,18.0
+1019,,Natural,Hydrological,Flood,18.0,19.0,10,10,28.0,211.0
+1020,,Natural,Hydrological,Flood,25.0,28.0,5,5,13.0,0
+1021,,Natural,Hydrological,Flood,3.0,20.0,10,10,19.0,0
+1022,,Natural,Hydrological,Flood,7.0,27.0,7,7,23.0,0
+1023,,Natural,Meteorological,Storm,31.0,31.0,3,3,24.0,500.0
+1024,"Ferry ""Prince of Patuakhali""",Technological,Technological,Transport accident,15.0,15.0,5,5,40.0,0
+1025,Ferry,Technological,Technological,Transport accident,17.0,17.0,5,5,115.0,0
+1026,,Technological,Technological,Transport accident,9.0,9.0,4,4,56.0,0
+1027,,Technological,Technological,Transport accident,19.0,19.0,5,5,30.0,0
+1028,,Technological,Technological,Transport accident,2.0,3.0,8,8,75.0,0
+1029,,Technological,Technological,Transport accident,5.0,5.0,8,8,27.0,0
+1030,Garments factory,Technological,Technological,Industrial accident,11.0,11.0,4,4,151.0,0
+1031,,Natural,Meteorological,Storm,21.0,22.0,5,5,10.0,6.0
+1032,,Natural,Meteorological,Storm,14.0,14.0,5,5,2.0,100.0
+1033,,Natural,Meteorological,Storm,6.0,6.0,5,5,11.0,0
+1034,,Natural,Meteorological,Storm,30.0,30.0,6,6,35.0,0
+1035,,Natural,Meteorological,Storm,20.0,20.0,9,9,16.0,0
+1036,,Natural,Hydrological,Flood,27.0,29.0,9,9,0,0
+1037,,Natural,Hydrological,Flood,7.0,1.0,6,7,4.0,0
+1038,,Natural,Climatological,Wildfire,1,28,7,7,0,0
+1039,,Natural,Climatological,Wildfire,1,28,8,8,0,0
+1040,Food poisoning,Technological,Technological,Miscellaneous accident,30.0,1.0,11,12,0,506.0
+1041,Poisoning,Technological,Technological,Miscellaneous accident,8.0,8.0,5,5,0,155.0
+1042,,Natural,Meteorological,Storm,26.0,29.0,9,9,0,0
+1043,Cholera,Natural,Biological,Epidemic,11.0,30.0,4,10,72.0,0
+1044,,Technological,Technological,Transport accident,2.0,2.0,9,9,10.0,15.0
+1045,Mt. Talang,Natural,Geophysical,Volcanic activity,12.0,12.0,4,4,0,0
+1046,,Natural,Hydrological,Landslide,2.0,2.0,9,9,25.0,10.0
+1047,,Natural,Climatological,Wildfire,9.0,9.0,8,8,0,0
+1048,Boeing 737-200,Technological,Technological,Transport accident,5.0,5.0,9,9,150.0,0
+1049,"Ferry ""Digul""",Technological,Technological,Transport accident,7.0,7.0,7,7,200.0,0
+1050,,Technological,Technological,Transport accident,24.0,24.0,9,9,18.0,0
+1051,,Technological,Technological,Transport accident,30.0,30.0,6,6,2.0,125.0
+1052,,Natural,Geophysical,Earthquake,17.0,17.0,12,12,8.0,200.0
+1053,,Natural,Hydrological,Flood,13.0,23.0,2,2,39.0,39.0
+1054,,Natural,Hydrological,Flood,19.0,23.0,6,6,236.0,56.0
+1055,,Natural,Hydrological,Flood,25.0,29.0,6,6,52.0,0
+1056,,Natural,Hydrological,Flood,26.0,14.0,1,2,19.0,0
+1057,,Natural,Hydrological,Flood,19.0,23.0,4,4,22.0,2.0
+1058,,Natural,Hydrological,Flood,24.0,26.0,6,6,41.0,0
+1059,,Natural,Geophysical,Earthquake,14.0,14.0,3,3,3.0,2.0
+1060,,Natural,Hydrological,Flood,22.0,31.0,4,5,0,0
+1061,,Natural,Meteorological,Storm,22.0,24.0,4,4,4.0,150.0
+1062,,Natural,Meteorological,Storm,18.0,5.0,9,10,115.0,0
+1063,,Natural,Meteorological,Storm,8.0,8.0,4,4,22.0,500.0
+1064,,Natural,Meteorological,Storm,4.0,4.0,3,3,4.0,549.0
+1065,,Natural,Hydrological,Flood,31.0,24.0,5,7,0,0
+1066,,Natural,Hydrological,Flood,24.0,20.0,8,9,0,0
+1067,,Natural,Meteorological,Storm,5.0,6.0,4,4,9.0,65.0
+1068,,Technological,Technological,Transport accident,13.0,13.0,1,1,18.0,6.0
+1069,,Technological,Technological,Transport accident,2.0,2.0,2,2,13.0,17.0
+1070,,Technological,Technological,Transport accident,21.0,21.0,4,4,35.0,0
+1071,,Technological,Technological,Transport accident,11.0,11.0,7,7,32.0,30.0
+1072,Ferry,Technological,Technological,Transport accident,23.0,23.0,10,10,60.0,0
+1073,Textil factory,Technological,Technological,Industrial accident,23.0,23.0,2,2,52.0,100.0
+1074,Buidling,Technological,Technological,Miscellaneous accident,25.0,25.0,2,2,20.0,47.0
+1075,Slum area,Technological,Technological,Miscellaneous accident,1.0,1.0,2,2,0,28.0
+1076,,Natural,Hydrological,Flood,18.0,24.0,4,4,0,0
+1077,,Natural,Hydrological,Flood,12.0,20.0,4,4,0,0
+1078,,Natural,Hydrological,Flood,26.0,2.0,5,6,0,0
+1079,,Natural,Hydrological,Flood,20.0,28.0,5,5,1.0,0
+1080,,Natural,Hydrological,Flood,31.0,1.0,8,9,0,0
+1081,Meningococcal Disease,Natural,Biological,Epidemic,1.0,31.0,1,3,18.0,0
+1082,Cholera,Natural,Biological,Epidemic,1,22.0,1,10,111.0,0
+1083,,Technological,Technological,Transport accident,4.0,4.0,1,1,19.0,30.0
+1084,,Technological,Technological,Transport accident,25.0,25.0,5,5,11.0,10.0
+1085,,Technological,Technological,Transport accident,23.0,23.0,12,12,13.0,10.0
+1086,,Natural,Geophysical,Earthquake,26.0,26.0,5,5,5778.0,137883.0
+1087,,Natural,Geophysical,Earthquake,1.0,1.0,12,12,1.0,14.0
+1088,,Natural,Geophysical,Earthquake,17.0,17.0,7,7,802.0,543.0
+1089,Mt. Merapi,Natural,Geophysical,Volcanic activity,18.0,15.0,4,5,0,0
+1090,,Natural,Hydrological,Flood,23.0,27.0,6,6,0,0
+1091,,Natural,Hydrological,Landslide,1.0,4.0,1,1,156.0,13.0
+1092,,Natural,Hydrological,Landslide,22.0,27.0,1,1,11.0,0
+1093,,Natural,Hydrological,Landslide,15.0,15.0,12,12,17.0,0
+1094,,Natural,Climatological,Wildfire,1,28,8,8,0,200.0
+1095,,Technological,Technological,Transport accident,17.0,17.0,11,11,12.0,0
+1096,,Technological,Technological,Transport accident,1.0,1.0,1,1,11.0,14.0
+1097,"Inter-island ferry ""Citra Mandala Bakti""",Technological,Technological,Transport accident,31.0,31.0,1,1,36.0,0
+1098,Cargo,Technological,Technological,Transport accident,6.0,6.0,4,4,29.0,0
+1099,Ferry,Technological,Technological,Transport accident,18.0,18.0,4,4,10.0,0
+1100,Ferry,Technological,Technological,Transport accident,21.0,22.0,6,6,35.0,0
+1101,"Ferry ""Trista I""",Technological,Technological,Transport accident,29.0,29.0,12,12,50.0,0
+1102,"Ferry ""Senopati Nusantara""",Technological,Technological,Transport accident,30.0,31.0,12,12,400.0,0
+1103,,Technological,Technological,Transport accident,15.0,15.0,4,4,13.0,26.0
+1104,,Technological,Technological,Industrial accident,22.0,22.0,11,11,12.0,11.0
+1105,,Technological,Technological,Industrial accident,29.0,29.0,5,5,13.0,0
+1106,Gold mine,Technological,Technological,Industrial accident,6.0,6.0,5,5,11.0,0
+1107,,Technological,Technological,Miscellaneous accident,8.0,8.0,9,9,23.0,0
+1108,,Natural,Meteorological,Storm,14.0,15.0,2,2,2.0,0
+1109,,Natural,Hydrological,Landslide,12.0,14.0,1,1,32.0,0
+1110,,Technological,Technological,Transport accident,6.0,6.0,1,1,41.0,14.0
+1111,,Natural,Hydrological,Flood,31.0,22.0,1,2,68.0,1.0
+1112,,Natural,Hydrological,Landslide,9.0,9.0,1,1,11.0,0
+1113,Boeing,Technological,Technological,Transport accident,1.0,1.0,1,1,102.0,0
+1114,,Technological,Technological,Transport accident,1.0,1.0,1,1,15.0,0
+1115,,Technological,Technological,Transport accident,16.0,16.0,1,1,5.0,100.0
+1116,,Natural,Biological,Epidemic,1,28,2,2,22.0,0
+1117,,Natural,Hydrological,Flood,5.0,29.0,12,12,4.0,0
+1118,Katrina,Natural,Meteorological,Storm,29.0,19.0,8,9,1833.0,0
+1119,Damrey,Natural,Meteorological,Storm,15.0,22.0,9,9,16.0,0
+1120,"Hurricane ""Wilma""",Natural,Meteorological,Storm,24.0,24.0,10,10,4.0,0
+1121,,Natural,Hydrological,Flood,21.0,30.0,8,8,30.0,0
+1122,Stan,Natural,Meteorological,Storm,1.0,13.0,10,10,36.0,0
+1123,"Hurricane ""Wilma""",Natural,Meteorological,Storm,19.0,24.0,10,10,7.0,0
+1124,,Natural,Hydrological,Flood,5.0,5.0,5,5,8.0,0
+1125,,Natural,Hydrological,Flood,6.0,8.0,5,5,0,0
+1126,,Natural,Hydrological,Flood,8.0,16.0,10,10,11.0,0
+1127,Bret,Natural,Meteorological,Storm,29.0,30.0,6,6,2.0,0
+1128,,Natural,Meteorological,Storm,6.0,8.0,4,4,0,8.0
+1129,Rita,Natural,Meteorological,Storm,23.0,1.0,9,10,10.0,0
+1130,,Natural,Hydrological,Flood,26.0,29.0,9,9,3.0,0
+1131,Emily,Natural,Meteorological,Storm,18.0,18.0,7,7,2.0,0
+1132,,Technological,Technological,Transport accident,6.0,6.0,4,4,20.0,15.0
+1133,Fireworks market,Technological,Technological,Miscellaneous accident,15.0,15.0,9,9,0,104.0
+1134,,Technological,Technological,Transport accident,11.0,11.0,5,5,24.0,9.0
+1135,Ammunition bunker,Technological,Technological,Miscellaneous accident,12.0,12.0,9,9,0,107.0
+1136,Effondrement dans un mine,Technological,Technological,Industrial accident,26.0,26.0,10,10,24.0,0
+1137,Food poisoning,Technological,Technological,Miscellaneous accident,9.0,9.0,3,3,29.0,0
+1138,Food poisoning,Technological,Technological,Miscellaneous accident,16.0,17.0,7,7,0,134.0
+1139,Shanty town,Technological,Technological,Miscellaneous accident,14.0,14.0,6,6,0,0
+1140,,Natural,Hydrological,Flood,12.0,12.0,5,5,1.0,0
+1141,,Natural,Biological,Epidemic,3.0,15.0,1,5,115.0,0
+1142,,Natural,Meteorological,Storm,18.0,18.0,8,8,0,0
+1143,,Natural,Meteorological,Storm,8.0,9.0,12,12,10.0,0
+1144,,Natural,Hydrological,Flood,1.0,6.0,4,4,2.0,0
+1145,"Hurricane ""Dennis""",Natural,Meteorological,Storm,10.0,10.0,7,7,5.0,0
+1146,,Natural,Meteorological,Extreme temperature,4.0,30.0,7,7,33.0,31.0
+1147,Bimoteur Grumman G-73T,Technological,Technological,Transport accident,19.0,19.0,12,12,19.0,0
+1148,,Technological,Technological,Transport accident,23.0,23.0,9,9,24.0,17.0
+1149,,Technological,Technological,Transport accident,2.0,2.0,10,10,21.0,0
+1150,,Natural,Hydrological,Flood,4.0,17.0,4,4,1.0,0
+1151,,Natural,Hydrological,Flood,14.0,23.0,3,3,7.0,0
+1152,John,Natural,Meteorological,Storm,2.0,4.0,9,9,7.0,0
+1153,Lane,Natural,Meteorological,Storm,16.0,18.0,9,9,4.0,0
+1154,Chanchu (Caloy),Natural,Meteorological,Storm,11.0,12.0,5,5,41.0,0
+1155,Bilis,Natural,Meteorological,Storm,11.0,17.0,7,7,37.0,0
+1156,Xangsane (Milenyo),Natural,Meteorological,Storm,27.0,6.0,9,10,228.0,406.0
+1157,Cimaron (Paeng),Natural,Meteorological,Storm,30.0,1.0,10,11,34.0,58.0
+1158,,Natural,Geophysical,Earthquake,15.0,15.0,10,10,0,10.0
+1159,Durian (Reming),Natural,Meteorological,Storm,30.0,8.0,11,12,1399.0,2143.0
+1160,,Natural,Hydrological,Flood,27.0,29.0,12,12,0,0
+1161,Queenie (Chebi),Natural,Meteorological,Storm,13.0,13.0,11,11,6.0,10.0
+1162,,Natural,Hydrological,Flood,1,28,8,8,26.0,0
+1163,,Natural,Hydrological,Flood,25.0,1.0,6,7,11.0,0
+1164,,Natural,Hydrological,Flood,21.0,27.0,10,10,2.0,0
+1165,,Natural,Meteorological,Storm,2.0,3.0,4,4,28.0,36.0
+1166,,Natural,Meteorological,Storm,6.0,8.0,4,4,12.0,160.0
+1167,,Natural,Meteorological,Storm,1.0,7.0,5,5,1.0,0
+1168,Kaemi,Natural,Meteorological,Storm,24.0,28.0,7,7,4.0,0
+1169,Henry,Natural,Meteorological,Storm,30.0,2.0,6,8,8.0,0
+1170,,Natural,Hydrological,Flood,11.0,22.0,5,5,2.0,0
+1171,,Natural,Hydrological,Flood,22.0,26.0,9,9,14.0,10.0
+1172,,Natural,Meteorological,Storm,30.0,3.0,11,12,11.0,0
+1173,Paul,Natural,Meteorological,Storm,25.0,28.0,10,10,4.0,0
+1174,,Natural,Meteorological,Storm,11.0,13.0,3,3,10.0,42.0
+1175,,Natural,Meteorological,Storm,15.0,16.0,11,11,12.0,20.0
+1176,,Natural,Meteorological,Storm,12.0,14.0,10,10,3.0,0
+1177,Ernesto,Natural,Meteorological,Storm,2.0,7.0,8,9,6.0,0
+1178,,Technological,Technological,Industrial accident,11.0,11.0,8,8,0,0
+1179,,Natural,Hydrological,Flood,27.0,7.0,7,8,0,0
+1180,,Natural,Hydrological,Landslide,2.0,2.0,8,8,11.0,0
+1181,,Natural,Hydrological,Landslide,6.0,6.0,9,9,10.0,0
+1182,,Natural,Meteorological,Extreme temperature,1,28,11,11,5.0,0
+1183,,Technological,Technological,Transport accident,17.0,17.0,4,4,57.0,3.0
+1184,,Technological,Technological,Transport accident,16.0,16.0,10,10,14.0,0
+1185,,Technological,Technological,Transport accident,28.0,28.0,12,12,22.0,9.0
+1186,Mine,Technological,Technological,Industrial accident,19.0,19.0,2,2,65.0,8.0
+1187,Mt. Mayon,Natural,Geophysical,Volcanic activity,13.0,13.0,8,8,0,0
+1188,,Natural,Hydrological,Flood,26.0,5.0,1,2,4.0,0
+1189,,Natural,Hydrological,Flood,4.0,6.0,3,3,1.0,0
+1190,,Natural,Hydrological,Flood,4.0,8.0,10,10,3.0,0
+1191,,Natural,Hydrological,Landslide,13.0,13.0,8,8,6.0,0
+1192,,Natural,Hydrological,Landslide,14.0,14.0,2,2,11.0,25.0
+1193,,Natural,Hydrological,Landslide,17.0,17.0,2,2,1126.0,19.0
+1194,Prapiroon,Natural,Meteorological,Storm,2.0,6.0,8,8,6.0,0
+1195,Utor (Seniang),Natural,Meteorological,Storm,11.0,11.0,12,12,42.0,42.0
+1196,,Technological,Technological,Industrial accident,28.0,28.0,11,11,0,0
+1197,Stampede,Technological,Technological,Miscellaneous accident,4.0,4.0,2,2,74.0,434.0
+1198,,Technological,Technological,Miscellaneous accident,23.0,23.0,3,3,0,0
+1199,Fireworks shop,Technological,Technological,Miscellaneous accident,26.0,26.0,12,12,23.0,9.0
+1200,,Natural,Hydrological,Flood,5.0,17.0,9,10,52.0,0
+1201,Cholera,Natural,Biological,Epidemic,13.0,30.0,6,6,20.0,0
+1202,,Natural,Hydrological,Flood,20.0,28.0,6,6,0,0
+1203,,Natural,Meteorological,Storm,25.0,25.0,12,12,0,0
+1204,,Natural,Meteorological,Storm,21.0,21.0,12,12,0,0
+1205,,Natural,Meteorological,Storm,27.0,31.0,12,12,0,0
+1206,,Natural,Hydrological,Flood,22.0,25.0,6,6,2.0,0
+1207,,Natural,Hydrological,Flood,27.0,7.0,7,8,0,0
+1208,,Natural,Hydrological,Flood,27.0,30.0,7,7,1.0,0
+1209,,Natural,Hydrological,Flood,19.0,24.0,8,8,0,0
+1210,,Natural,Hydrological,Flood,9.0,14.0,10,10,0,0
+1211,,Natural,Hydrological,Flood,5.0,10.0,11,11,2.0,0
+1212,,Natural,Meteorological,Extreme temperature,14.0,15.0,7,8,164.0,0
+1213,,Natural,Meteorological,Extreme temperature,30.0,6.0,7,8,24.0,0
+1214,,Natural,Climatological,Wildfire,26.0,27.0,10,10,4.0,1.0
+1215,,Natural,Climatological,Wildfire,3.0,6.0,12,12,0,0
+1216,,Technological,Technological,Transport accident,27.0,27.0,8,8,49.0,0
+1217,"""Paquebot ""Crown princess""",Technological,Technological,Transport accident,18.0,18.0,7,7,0,100.0
+1218,Mine,Technological,Technological,Industrial accident,2.0,2.0,1,1,13.0,1.0
+1219,Hall for mentally handicapped people,Technological,Technological,Miscellaneous accident,26.0,27.0,11,11,10.0,19.0
+1220,,Natural,Climatological,Wildfire,9.0,14.0,7,7,1.0,17.0
+1221,,Natural,Meteorological,Storm,14.0,15.0,12,12,10.0,0
+1222,,Natural,Meteorological,Storm,12.0,17.0,1,1,65.0,220.0
+1223,,Natural,Hydrological,Flood,10.0,24.0,1,1,9.0,0
+1224,,Natural,Meteorological,Storm,14.0,15.0,2,2,16.0,0
+1225,,Technological,Technological,Transport accident,24.0,24.0,1,1,29.0,25.0
+1226,,Technological,Technological,Transport accident,2.0,2.0,2,2,50.0,30.0
+1227,,Natural,Meteorological,Storm,2.0,2.0,2,2,20.0,0
+1228,,Natural,Hydrological,Flood,15.0,25.0,1,1,24.0,0
+1229,,Natural,Hydrological,Flood,11.0,12.0,6,6,120.0,60.0
+1230,,Natural,Hydrological,Flood,21.0,3.0,7,8,1110.0,0
+1231,,Natural,Hydrological,Flood,1.0,10.0,3,3,74.0,26.0
+1232,,Natural,Hydrological,Flood,1,28,7,7,58.0,0
+1233,,Natural,Hydrological,Flood,22.0,7.0,7,8,88.0,12.0
+1234,,Natural,Hydrological,Flood,25.0,28,12,12,127.0,95.0
+1235,,Natural,Hydrological,Flood,2.0,4.0,9,9,4.0,0
+1236,,Natural,Geophysical,Earthquake,12.0,12.0,9,9,25.0,82.0
+1237,Sidr,Natural,Meteorological,Storm,15.0,19.0,11,11,4234.0,55282.0
+1238,,Natural,Meteorological,Storm,15.0,15.0,5,5,41.0,0
+1239,Cholera,Natural,Biological,Epidemic,29.0,9.0,7,10,54.0,0
+1240,ARI,Natural,Biological,Epidemic,30.0,9.0,7,10,32.0,0
+1241,Bridge,Technological,Technological,Miscellaneous accident,24.0,24.0,11,11,24.0,100.0
+1242,,Natural,Hydrological,Flood,6.0,11.0,6,6,0,0
+1243,,Natural,Meteorological,Storm,23.0,26.0,12,12,4.0,0
+1244,,Natural,Hydrological,Flood,1,28,9,9,0,0
+1245,Cholera,Natural,Biological,Epidemic,1,28,1,8,90.0,0
+1246,Bridge,Technological,Technological,Transport accident,19.0,19.0,3,3,70.0,15.0
+1247,,Technological,Technological,Transport accident,28.0,28.0,3,3,46.0,0
+1248,,Natural,Geophysical,Earthquake,6.0,6.0,3,3,67.0,826.0
+1249,,Natural,Geophysical,Earthquake,9.0,9.0,9,9,0,19.0
+1250,,Natural,Geophysical,Earthquake,25.0,25.0,11,11,3.0,1800.0
+1251,Mt. Gamkonora,Natural,Geophysical,Volcanic activity,9.0,9.0,7,7,0,0
+1252,Mt. Kelud,Natural,Geophysical,Volcanic activity,16.0,18.0,10,10,0,0
+1253,,Natural,Hydrological,Flood,15.0,5.0,5,6,4.0,0
+1254,,Natural,Hydrological,Flood,25.0,2.0,7,8,15.0,0
+1255,Dengue,Natural,Biological,Epidemic,1,28,7,7,365.0,0
+1256,Dengue,Natural,Biological,Epidemic,1,28,2,3,16.0,0
+1257,,Technological,Technological,Transport accident,7.0,7.0,3,3,22.0,50.0
+1258,Ferry Levina I,Technological,Technological,Transport accident,22.0,22.0,2,2,77.0,0
+1259,"Passenger ship ""Wahai Star""",Technological,Technological,Transport accident,11.0,11.0,7,7,47.0,0
+1260,"Ferry ""Acita""",Technological,Technological,Transport accident,18.0,18.0,10,10,60.0,20.0
+1261,,Technological,Technological,Transport accident,25.0,25.0,10,10,30.0,0
+1262,Bridge,Technological,Technological,Miscellaneous accident,26.0,26.0,12,12,50.0,0
+1263,,Natural,Hydrological,Flood,26.0,13.0,6,7,16.0,2.0
+1264,,Natural,Hydrological,Flood,11.0,27.0,2,2,11.0,0
+1265,,Natural,Hydrological,Flood,15.0,16.0,11,11,33.0,0
+1266,,Natural,Hydrological,Flood,1.0,14.0,3,3,3.0,0
+1267,"Cyclone ""Reshmi""",Natural,Meteorological,Storm,27.0,27.0,10,10,15.0,200.0
+1268,,Natural,Hydrological,Flood,26.0,1.0,4,5,0,0
+1269,,Natural,Hydrological,Flood,30.0,8.0,8,9,12.0,0
+1270,,Natural,Hydrological,Landslide,16.0,16.0,8,8,13.0,50.0
+1271,,Natural,Meteorological,Storm,22.0,22.0,3,3,12.0,200.0
+1272,,Technological,Technological,Transport accident,21.0,21.0,2,2,14.0,0
+1273,Ferry,Technological,Technological,Transport accident,28.0,28.0,2,2,39.0,0
+1274,,Natural,Hydrological,Flood,10.0,24.0,4,4,0,0
+1275,Propone gaz facility,Technological,Technological,Industrial accident,10.0,10.0,8,8,2.0,18.0
+1276,,Natural,Hydrological,Flood,8.0,8.0,8,8,0,0
+1277,,Technological,Technological,Transport accident,14.0,14.0,3,3,14.0,0
+1278,Gold mine,Technological,Technological,Industrial accident,13.0,13.0,11,11,13.0,0
+1279,,Natural,Geophysical,Earthquake,20.0,20.0,2,2,3.0,25.0
+1280,,Natural,Geophysical,Earthquake,9.0,9.0,9,9,2.0,60.0
+1281,,Natural,Geophysical,Earthquake,16.0,16.0,11,11,6.0,77.0
+1282,Mt. Egon,Natural,Geophysical,Volcanic activity,15.0,15.0,4,4,0,0
+1283,,Natural,Hydrological,Flood,8.0,12.0,2,2,14.0,0
+1284,,Natural,Hydrological,Flood,23.0,27.0,4,4,0,0
+1285,,Natural,Hydrological,Flood,2.0,6.0,1,1,0,0
+1286,,Natural,Hydrological,Flood,1.0,6.0,2,2,3.0,0
+1287,,Natural,Hydrological,Flood,30.0,31.0,1,1,3.0,0
+1288,,Natural,Hydrological,Flood,10.0,3.0,3,4,0,0
+1289,,Natural,Hydrological,Flood,6.0,8.0,9,9,16.0,0
+1290,,Natural,Hydrological,Flood,1,28,10,10,5.0,0
+1291,,Natural,Hydrological,Landslide,5.0,5.0,5,5,21.0,0
+1292,Sand mine,Technological,Technological,Industrial accident,29.0,29.0,10,10,25.0,0
+1293,,Technological,Technological,Miscellaneous accident,29.0,29.0,7,7,16.0,0
+1294,Stampede,Technological,Technological,Miscellaneous accident,15.0,15.0,9,9,21.0,11.0
+1295,,Natural,Hydrological,Flood,27.0,2.0,1,2,18.0,0
+1296,,Natural,Hydrological,Flood,26.0,27.0,3,3,64.0,0
+1297,"Cyclone ""Bijli""",Natural,Meteorological,Storm,19.0,20.0,4,4,7.0,84.0
+1298,,Technological,Technological,Transport accident,19.0,19.0,2,2,37.0,0
+1299,Helicopter,Technological,Technological,Transport accident,12.0,12.0,3,3,16.0,0
+1300,Gold mine,Technological,Technological,Industrial accident,7.0,7.0,5,5,13.0,0
+1301,,Natural,Geophysical,Earthquake,3.0,3.0,1,1,5.0,250.0
+1302,,Natural,Geophysical,Earthquake,11.0,11.0,2,2,0,64.0
+1303,,Natural,Hydrological,Landslide,18.0,18.0,1,1,15.0,0
+1304,Fokker 27,Technological,Technological,Transport accident,6.0,6.0,4,4,24.0,0
+1305,,Technological,Technological,Transport accident,17.0,17.0,4,4,11.0,0
+1306,"Ferry ""Teratai Prima""",Technological,Technological,Transport accident,10.0,11.0,1,1,247.0,0
+1307,,Technological,Technological,Transport accident,13.0,14.0,1,1,28.0,0
+1308,,Natural,Hydrological,Flood,28.0,16.0,10,11,22.0,0
+1309,,Natural,Hydrological,Flood,16.0,27.0,8,8,26.0,40.0
+1310,Lorenzo,Natural,Meteorological,Storm,28.0,1.0,9,10,5.0,0
+1311,Chedeng and Dodong,Natural,Meteorological,Storm,8.0,13.0,8,8,7.0,7.0
+1312,Lekima (Hanna),Natural,Meteorological,Storm,29.0,12.0,9,10,8.0,0
+1313,Mitag (Mina) (23),Natural,Meteorological,Storm,25.0,2.0,11,12,29.0,6.0
+1314,Hagibis (Lando) (24),Natural,Meteorological,Storm,18.0,23.0,11,11,20.0,11.0
+1315,,Natural,Meteorological,Storm,3.0,7.0,12,12,17.0,28.0
+1316,,Natural,Meteorological,Storm,4.0,8.0,5,5,12.0,40.0
+1317,,Natural,Meteorological,Storm,13.0,17.0,4,4,23.0,0
+1318,,Natural,Hydrological,Flood,26.0,6.0,6,7,8.0,0
+1319,,Natural,Hydrological,Flood,18.0,21.0,11,11,11.0,0
+1320,,Natural,Hydrological,Flood,27.0,1.0,10,11,20.0,0
+1321,,Natural,Hydrological,Landslide,6.0,6.0,11,11,16.0,0
+1322,,Natural,Meteorological,Storm,21.0,25.0,5,5,5.0,0
+1323,,Natural,Hydrological,Flood,19.0,20.0,6,6,4.0,0
+1324,,Natural,Climatological,Wildfire,21.0,24.0,10,10,8.0,64.0
+1325,,Natural,Meteorological,Storm,23.0,25.0,2,2,4.0,27.0
+1326,Dean,Natural,Meteorological,Storm,21.0,24.0,8,8,9.0,0
+1327,Felix,Natural,Meteorological,Storm,4.0,6.0,9,9,0,0
+1328,Sepat,Natural,Meteorological,Storm,17.0,24.0,8,8,3.0,0
+1329,Wipha/Goring,Natural,Meteorological,Storm,17.0,25.0,9,9,2.0,0
+1330,Goring,Natural,Meteorological,Storm,18.0,18.0,9,9,1.0,0
+1331,,Natural,Meteorological,Storm,24.0,26.0,4,4,10.0,80.0
+1332,Erin,Natural,Meteorological,Storm,16.0,19.0,8,8,7.0,0
+1333,,Natural,Meteorological,Storm,23.0,26.0,12,12,22.0,0
+1334,,Natural,Meteorological,Storm,9.0,11.0,12,12,24.0,2.0
+1335,,Natural,Hydrological,Flood,4.0,12.0,9,9,0,0
+1336,Henriette,Natural,Meteorological,Storm,1.0,1.0,9,9,6.0,0
+1337,,Technological,Technological,Transport accident,4.0,4.0,7,7,32.0,0
+1338,,Technological,Technological,Transport accident,9.0,9.0,9,9,29.0,120.0
+1339,,Technological,Technological,Transport accident,15.0,15.0,9,9,15.0,12.0
+1340,,Technological,Technological,Transport accident,19.0,19.0,10,10,24.0,0
+1341,Oil plateform,Technological,Technological,Industrial accident,23.0,24.0,10,10,23.0,0
+1342,Mt. Bulusan,Natural,Geophysical,Volcanic activity,31.0,31.0,7,7,0,0
+1343,,Natural,Hydrological,Flood,28.0,28.0,11,11,0,0
+1344,,Natural,Hydrological,Flood,1.0,4.0,12,12,0,0
+1345,Kabayan (Peipah),Natural,Meteorological,Storm,4.0,6.0,11,11,8.0,0
+1346,"Ferry ""Blue Water Princess 1""",Technological,Technological,Transport accident,12.0,12.0,7,7,16.0,0
+1347,,Natural,Climatological,Drought,1,28,8,8,0,0
+1348,,Technological,Technological,Miscellaneous accident,7.0,7.0,4,4,0,0
+1349,,Natural,Hydrological,Flood,25.0,9.0,8,9,12.0,0
+1350,,Natural,Hydrological,Flood,9.0,15.0,8,8,3.0,0
+1351,,Natural,Meteorological,Storm,7.0,7.0,5,5,14.0,145.0
+1352,,Natural,Hydrological,Flood,1,28,8,9,41.0,77.0
+1353,,Technological,Technological,Transport accident,30.0,30.0,11,11,14.0,22.0
+1354,,Technological,Technological,Transport accident,2.0,3.0,12,12,16.0,0
+1355,,Natural,Meteorological,Storm,1.0,2.0,3,3,20.0,20.0
+1356,,Natural,Hydrological,Flood,24.0,29.0,5,5,8.0,0
+1357,,Natural,Hydrological,Flood,17.0,22.0,6,6,10.0,0
+1358,,Natural,Climatological,Wildfire,24.0,2.0,6,7,0,0
+1359,,Natural,Climatological,Wildfire,24.0,27.0,11,11,0,0
+1360,Cessna 208B,Technological,Technological,Transport accident,7.0,7.0,10,10,10.0,0
+1361,Bridge,Technological,Technological,Miscellaneous accident,2.0,2.0,8,8,29.0,60.0
+1362,Home,Technological,Technological,Miscellaneous accident,7.0,8.0,3,3,10.0,0
+1363,Hurricane Dolly,Natural,Meteorological,Storm,20.0,21.0,7,7,2.0,0
+1364,Typhoon Fengshen (Franck),Natural,Meteorological,Storm,21.0,23.0,6,6,644.0,826.0
+1365,,Natural,Hydrological,Flood,5.0,9.0,1,1,2.0,0
+1366,,Natural,Meteorological,Storm,22.0,26.0,5,5,7.0,70.0
+1367,,Natural,Meteorological,Storm,10.0,12.0,5,5,22.0,150.0
+1368,Halong (Cosme),Natural,Meteorological,Storm,18.0,18.0,5,5,64.0,33.0
+1369,,Natural,Meteorological,Storm,5.0,6.0,2,2,59.0,150.0
+1370,,Natural,Meteorological,Storm,14.0,14.0,3,3,2.0,27.0
+1371,Hurricane Dolly,Natural,Meteorological,Storm,23.0,23.0,7,7,0,0
+1372,,Natural,Hydrological,Flood,12.0,12.0,2,3,63.0,37.0
+1373,"Typhoon ""Hagupit"" (Nina)",Natural,Meteorological,Storm,22.0,22.0,9,9,37.0,17.0
+1374,,Natural,Hydrological,Flood,17.0,20.0,3,4,18.0,0
+1375,,Natural,Hydrological,Flood,9.0,30.0,6,6,24.0,148.0
+1376,"Tropical Storm ""Fung-Wong"" (Igme)",Natural,Meteorological,Storm,28.0,29.0,7,7,10.0,2.0
+1377,"Tropical storm ""Kammuri"" (Julian)",Natural,Meteorological,Storm,4.0,4.0,8,8,2.0,0
+1378,"Tropical Storm ""Maysak"" (Quinta-Sony)",Natural,Meteorological,Storm,6.0,11.0,11,11,19.0,14.0
+1379,"TYphoon ""Rammasun"" (Butchoy)",Natural,Meteorological,Storm,13.0,13.0,5,5,1.0,40.0
+1380,"Typhoon ""Helen""",Natural,Meteorological,Storm,18.0,18.0,7,7,2.0,1.0
+1381,"Tropical Storm ""Fay""",Natural,Meteorological,Storm,20.0,28.0,8,8,12.0,0
+1382,Hurricane Ike,Natural,Meteorological,Storm,12.0,16.0,9,9,82.0,0
+1383,,Natural,Hydrological,Flood,6.0,11.0,7,7,12.0,0
+1384,,Natural,Hydrological,Landslide,17.0,18.0,9,9,22.0,0
+1385,Helicopter Bell-212,Technological,Technological,Transport accident,18.0,18.0,4,4,11.0,0
+1386,Bi-motor,Technological,Technological,Transport accident,4.0,4.0,11,11,15.0,7.0
+1387,,Technological,Technological,Transport accident,19.0,19.0,5,5,24.0,0
+1388,,Technological,Technological,Transport accident,29.0,29.0,6,6,14.0,28.0
+1389,,Technological,Technological,Transport accident,7.0,7.0,7,7,11.0,0
+1390,,Technological,Technological,Transport accident,18.0,18.0,10,10,11.0,20.0
+1391,,Technological,Technological,Transport accident,7.0,7.0,11,11,17.0,5.0
+1392,,Technological,Technological,Miscellaneous accident,20.0,20.0,6,6,12.0,20.0
+1393,,Natural,Hydrological,Flood,6.0,6.0,6,6,1.0,0
+1394,,Natural,Hydrological,Flood,21.0,24.0,11,11,10.0,0
+1395,,Natural,Hydrological,Flood,1.0,4.0,12,12,29.0,0
+1396,,Natural,Hydrological,Flood,8.0,8.0,8,8,0,0
+1397,,Natural,Hydrological,Flood,18.0,18.0,1,1,0,0
+1398,,Natural,Hydrological,Flood,17.0,17.0,6,6,7.0,1.0
+1399,,Natural,Hydrological,Flood,4.0,13.0,9,9,6.0,3.0
+1400,,Natural,Hydrological,Landslide,6.0,6.0,9,9,24.0,28.0
+1401,"Typhoon ""Neoguri"" (Ambo)",Natural,Meteorological,Storm,13.0,13.0,4,4,1.0,0
+1402,"Tropical storm ""Nuri"" (Karen)",Natural,Meteorological,Storm,22.0,22.0,8,8,38.0,13.0
+1403,"TRopical storm ""Higos"" (Pablo)",Natural,Meteorological,Storm,29.0,29.0,9,9,1.0,0
+1404,Ferry MV Princess of the Stars,Technological,Technological,Transport accident,21.0,21.0,6,6,815.0,0
+1405,"Ferry ""Don Dexter Kathleen""",Technological,Technological,Transport accident,4.0,4.0,11,11,42.0,0
+1406,"Ferry ""Maejan""",Technological,Technological,Transport accident,15.0,15.0,12,12,56.0,0
+1407,Slum,Technological,Technological,Miscellaneous accident,7.0,7.0,5,5,1.0,3.0
+1408,,Natural,Hydrological,Flood,20.0,25.0,7,8,0,0
+1409,,Natural,Hydrological,Flood,15.0,15.0,9,9,0,0
+1410,Hepatite E,Natural,Biological,Epidemic,1.0,1.0,1,10,22.0,0
+1411,,Natural,Hydrological,Flood,1.0,8.0,7,8,6.0,79.0
+1412,,Natural,Meteorological,Storm,29.0,30.0,1,1,4.0,0
+1413,,Natural,Meteorological,Storm,9.0,11.0,4,4,3.0,0
+1414,,Natural,Meteorological,Storm,28.0,28.0,4,4,0,200.0
+1415,,Natural,Meteorological,Storm,11.0,22.0,12,12,5.0,0
+1416,,Natural,Meteorological,Extreme temperature,11.0,14.0,12,12,0,0
+1417,,Natural,Geophysical,Earthquake,21.0,21.0,2,2,0,3.0
+1418,,Natural,Meteorological,Storm,4.0,9.0,1,1,12.0,0
+1419,"Hurricane ""Gustav""",Natural,Meteorological,Storm,1.0,1.0,9,9,43.0,0
+1420,Hurricane Hanna,Natural,Meteorological,Storm,28.0,28.0,8,8,7.0,0
+1421,,Natural,Climatological,Wildfire,20.0,9.0,6,7,1.0,0
+1422,Bimoteur,Technological,Technological,Transport accident,22.0,22.0,8,8,10.0,0
+1423,,Technological,Technological,Transport accident,8.0,8.0,8,8,12.0,26.0
+1424,,Technological,Technological,Transport accident,5.0,5.0,10,10,10.0,30.0
+1425,,Technological,Technological,Transport accident,13.0,13.0,9,9,25.0,135.0
+1426,House,Technological,Technological,Miscellaneous accident,3.0,3.0,4,4,10.0,0
+1427,,Natural,Climatological,Wildfire,13.0,18.0,11,11,0,20.0
+1428,"Typhoon ""Emong"" (Chanom)",Natural,Meteorological,Storm,7.0,10.0,5,5,77.0,53.0
+1429,,Natural,Meteorological,Storm,9.0,10.0,4,4,9.0,72.0
+1430,,Natural,Hydrological,Flood,2.0,15.0,1,1,33.0,15.0
+1431,,Technological,Technological,Transport accident,16.0,16.0,3,3,11.0,18.0
+1432,,Technological,Technological,Transport accident,16.0,16.0,4,4,18.0,66.0
+1433,Gas intoxication,Technological,Technological,Industrial accident,21.0,21.0,3,3,11.0,1.0
+1434,,Natural,Hydrological,Flood,8.0,8.0,1,1,0,0
+1435,,Natural,Hydrological,Flood,9.0,9.0,1,1,0,0
+1436,Meningitis,Natural,Biological,Epidemic,1,28,1,4,102.0,0
+1437,,Technological,Technological,Transport accident,9.0,10.0,3,3,19.0,0
+1438,,Natural,Hydrological,Flood,24.0,20.0,3,4,2.0,60.0
+1439,,Natural,Meteorological,Extreme temperature,26.0,28.0,1,1,58.0,0
+1440,Bombardier Dash 8 Q400,Technological,Technological,Transport accident,12.0,12.0,2,2,50.0,0
+1441,,Technological,Technological,Transport accident,22.0,22.0,3,3,14.0,0
+1442,,Natural,Geophysical,Earthquake,30.0,30.0,9,9,1195.0,1798.0
+1443,"Cyclone ""Aila""",Natural,Meteorological,Storm,25.0,26.0,5,5,190.0,7103.0
+1444,,Natural,Hydrological,Flood,3.0,6.0,7,7,6.0,0
+1445,,Natural,Geophysical,Earthquake,2.0,2.0,9,9,128.0,1442.0
+1446,,Natural,Hydrological,Flood,29.0,29.0,7,7,10.0,0
+1447,,Technological,Technological,Transport accident,24.0,24.0,10,10,14.0,0
+1448,Ferry,Technological,Technological,Transport accident,4.0,4.0,12,12,53.0,0
+1449,Ferry MV Koko-4,Technological,Technological,Transport accident,27.0,27.0,11,11,91.0,0
+1450,,Natural,Meteorological,Storm,1.0,3.0,8,8,2.0,0
+1451,,Natural,Hydrological,Flood,1.0,9.0,4,4,0,0
+1452,Hurricane Bill,Natural,Meteorological,Storm,23.0,23.0,8,8,0,3.0
+1453,,Natural,Hydrological,Flood,3.0,3.0,8,8,2.0,0
+1454,,Natural,Geophysical,Earthquake,8.0,8.0,11,11,2.0,100.0
+1455,,Natural,Hydrological,Flood,15.0,18.0,9,9,38.0,0
+1456,,Natural,Hydrological,Flood,8.0,8.0,10,10,0,0
+1457,,Natural,Hydrological,Flood,8.0,8.0,12,12,6.0,4.0
+1458,,Natural,Hydrological,Landslide,8.0,8.0,11,11,14.0,0
+1459,Military plane Air Force Fokker F-27,Technological,Technological,Transport accident,20.0,20.0,5,5,100.0,15.0
+1460,"Ferry ""Dumai Express 10""",Technological,Technological,Transport accident,22.0,22.0,11,11,46.0,0
+1461,Coal mine,Technological,Technological,Industrial accident,16.0,16.0,6,6,41.0,0
+1462,Aldulterated alcool,Technological,Technological,Miscellaneous accident,23.0,28.0,5,5,25.0,0
+1463,Karaoke club,Technological,Technological,Miscellaneous accident,4.0,4.0,12,12,20.0,13.0
+1464,Mt. Merapi,Natural,Geophysical,Volcanic activity,24.0,24.0,10,10,322.0,454.0
+1465,,Natural,Geophysical,Earthquake,16.0,16.0,6,6,17.0,0
+1466,,Natural,Hydrological,Flood,2.0,6.0,10,10,291.0,3417.0
+1467,,Natural,Hydrological,Flood,23.0,1.0,2,3,44.0,0
+1468,,Natural,Hydrological,Flood,23.0,25.0,7,7,21.0,7.0
+1469,,Natural,Geophysical,Earthquake,25.0,25.0,10,10,530.0,412.0
+1470,,Natural,Meteorological,Storm,1.0,2.0,5,5,15.0,50.0
+1471,,Natural,Hydrological,Flood,24.0,24.0,6,6,0,0
+1472,,Natural,Hydrological,Flood,1.0,12.0,10,10,15.0,0
+1473,,Natural,Hydrological,Landslide,14.0,15.0,6,6,66.0,100.0
+1474,,Natural,Meteorological,Storm,13.0,14.0,4,4,8.0,200.0
+1475,,Natural,Meteorological,Storm,17.0,17.0,4,4,3.0,0
+1476,,Technological,Technological,Transport accident,1.0,1.0,1,1,17.0,47.0
+1477,Ferry,Technological,Technological,Transport accident,8.0,8.0,6,6,22.0,0
+1478,,Technological,Technological,Transport accident,18.0,18.0,12,12,37.0,0
+1479,Textil factory,Technological,Technological,Industrial accident,14.0,14.0,12,12,25.0,100.0
+1480,Building,Technological,Technological,Miscellaneous accident,1.0,1.0,6,6,25.0,25.0
+1481,"Clothes factory ""Garib and Garib""",Technological,Technological,Miscellaneous accident,25.0,25.0,2,2,21.0,40.0
+1482,Buildings,Technological,Technological,Miscellaneous accident,3.0,3.0,6,6,116.0,100.0
+1483,,Natural,Meteorological,Storm,26.0,28.0,12,12,0,0
+1484,,Natural,Hydrological,Flood,6.0,6.0,7,7,7.0,0
+1485,,Natural,Hydrological,Flood,15.0,18.0,9,9,1.0,6.0
+1486,,Technological,Technological,Transport accident,29.0,29.0,11,11,19.0,9.0
+1487,Mt. Sinabung,Natural,Geophysical,Volcanic activity,29.0,7.0,8,9,1.0,1.0
+1488,,Natural,Hydrological,Flood,22.0,22.0,1,1,10.0,0
+1489,,Natural,Hydrological,Flood,2.0,5.0,11,11,16.0,0
+1490,,Natural,Hydrological,Flood,11.0,11.0,1,1,5.0,0
+1491,,Natural,Hydrological,Flood,11.0,11.0,9,9,24.0,0
+1492,,Natural,Hydrological,Landslide,12.0,12.0,10,10,13.0,18.0
+1493,,Technological,Technological,Transport accident,9.0,9.0,8,8,10.0,0
+1494,Ferry,Technological,Technological,Transport accident,22.0,22.0,10,10,22.0,0
+1495,,Technological,Technological,Transport accident,2.0,2.0,10,10,36.0,30.0
+1496,Bridge,Technological,Technological,Miscellaneous accident,6.0,6.0,6,6,12.0,25.0
+1497,,Natural,Geophysical,Earthquake,11.0,11.0,3,3,1.0,0
+1498,,Natural,Hydrological,Flood,21.0,29.0,7,7,10.0,0
+1499,,Natural,Meteorological,Extreme temperature,7.0,20.0,1,2,50.0,0
+1500,,Technological,Technological,Transport accident,11.0,11.0,7,7,31.0,6.0
+1501,Ferry,Technological,Technological,Transport accident,21.0,21.0,4,4,32.0,20.0
+1502,,Natural,Hydrological,Flood,4.0,31.0,4,5,5.0,0
+1503,,Natural,Hydrological,Flood,6.0,7.0,2,2,0,0
+1504,,Natural,Hydrological,Flood,16.0,20.0,1,1,0,0
+1505,,Natural,Hydrological,Flood,10.0,11.0,3,3,21.0,0
+1506,,Natural,Hydrological,Landslide,6.0,6.0,5,5,19.0,4.0
+1507,MA-60,Technological,Technological,Transport accident,7.0,7.0,5,5,25.0,0
+1508,,Technological,Technological,Transport accident,12.0,12.0,7,7,16.0,0
+1509,"Ferry ""Laut Teduh II""",Technological,Technological,Transport accident,28.0,28.0,1,1,27.0,200.0
+1510,,Technological,Technological,Transport accident,6.0,6.0,6,6,28.0,0
+1511,"Typhhon ""Dante"" (Kujira)",Natural,Meteorological,Storm,29.0,5.0,4,5,29.0,8.0
+1512,Tropical depression Maring,Natural,Meteorological,Storm,8.0,9.0,9,9,15.0,0
+1513,Tropical Depression Nando,Natural,Meteorological,Storm,12.0,13.0,9,9,3.0,3.0
+1514,"Typhoon ""Pepeng"" (Parma)",Natural,Meteorological,Storm,29.0,10.0,9,10,512.0,207.0
+1515,Hurricane Jimena,Natural,Meteorological,Storm,2.0,3.0,9,9,4.0,0
+1516,Typhoon Morakot (Kiko),Natural,Meteorological,Storm,4.0,8.0,8,8,26.0,18.0
+1517,,Natural,Meteorological,Storm,10.0,18.0,6,6,1.0,2.0
+1518,,Natural,Meteorological,Storm,16.0,18.0,4,4,6.0,0
+1519,"Topical Storm ""Feria"" (Nangka)",Natural,Meteorological,Storm,23.0,26.0,7,7,16.0,5.0
+1520,,Natural,Hydrological,Flood,10.0,19.0,9,9,3.0,0
+1521,,Natural,Hydrological,Flood,4.0,10.0,7,8,22.0,0
+1522,Tropical storm Labuyo (Dujuan),Natural,Meteorological,Storm,2.0,8.0,9,9,1.0,0
+1523,"Tropical storm ""Mirinae"" (Santi)",Natural,Meteorological,Storm,28.0,28.0,10,10,39.0,20.0
+1524,"Tropical depression ""Urduja""",Natural,Meteorological,Storm,25.0,25.0,11,11,4.0,13.0
+1525,,Natural,Hydrological,Flood,3.0,10.0,5,5,0,0
+1526,Mt. Mayon,Natural,Geophysical,Volcanic activity,14.0,20.0,12,12,0,0
+1527,,Natural,Hydrological,Flood,10.0,11.0,8,8,3.0,0
+1528,,Natural,Meteorological,Storm,26.0,28.0,3,3,6.0,25.0
+1529,,Natural,Meteorological,Storm,20.0,21.0,7,7,1.0,0
+1530,,Natural,Meteorological,Storm,10.0,13.0,2,2,16.0,50.0
+1531,"Tropical storm ""Ondoy"" (Ketsana)",Natural,Meteorological,Storm,24.0,27.0,9,9,501.0,529.0
+1532,Goni (Jolina),Natural,Meteorological,Storm,1.0,3.0,8,8,14.0,10.0
+1533,"Hurricane ""Ida""",Natural,Meteorological,Storm,9.0,10.0,11,11,6.0,0
+1534,Hurricane Bill,Natural,Meteorological,Storm,23.0,23.0,8,8,3.0,9.0
+1535,,Natural,Hydrological,Flood,1.0,10.0,9,9,4.0,0
+1536,,Natural,Hydrological,Flood,1.0,12.0,11,11,0,0
+1537,,Natural,Hydrological,Flood,2.0,2.0,10,10,10.0,14.0
+1538,,Natural,Hydrological,Flood,14.0,16.0,7,7,11.0,0
+1539,"Hurricane ""Ida""",Natural,Meteorological,Storm,8.0,8.0,11,11,0,0
+1540,Dengue,Natural,Biological,Epidemic,1,28,10,12,0,0
+1541,Nursery,Technological,Technological,Miscellaneous accident,5.0,5.0,6,6,49.0,30.0
+1542,,Natural,Meteorological,Storm,15.0,15.0,5,5,0,0
+1543,,Natural,Geophysical,Earthquake,18.0,19.0,9,9,0,2.0
+1544,,Natural,Hydrological,Flood,18.0,18.0,5,5,0,0
+1545,,Natural,Hydrological,Flood,17.0,17.0,7,7,0,0
+1546,,Natural,Hydrological,Flood,18.0,18.0,5,5,0,0
+1547,,Natural,Hydrological,Flood,5.0,5.0,8,8,0,0
+1548,,Natural,Hydrological,Landslide,18.0,18.0,5,5,10.0,16.0
+1549,"Tropical Storm ""Isang"" (Molave)",Natural,Meteorological,Storm,18.0,18.0,7,7,5.0,1.0
+1550,"Ferry ""MV Baleno 9""",Technological,Technological,Transport accident,26.0,26.0,12,12,50.0,0
+1551,"Ferry ""MV Commander 6""",Technological,Technological,Transport accident,23.0,23.0,5,5,12.0,0
+1552,Ferry Super Ferry 9,Technological,Technological,Transport accident,6.0,6.0,9,9,10.0,0
+1553,"Boat ""Catalyn B"" and ""Nathalia""",Technological,Technological,Transport accident,23.0,24.0,12,12,27.0,0
+1554,,Natural,Hydrological,Flood,12.0,14.0,9,9,3.0,0
+1555,,Natural,Hydrological,Flood,1,28,7,7,0,0
+1556,,Natural,Meteorological,Storm,7.0,9.0,5,5,7.0,0
+1557,,Natural,Meteorological,Storm,23.0,25.0,12,12,19.0,0
+1558,,Natural,Hydrological,Flood,6.0,9.0,4,4,0,0
+1559,,Natural,Hydrological,Flood,20.0,21.0,9,9,9.0,0
+1560,,Natural,Climatological,Wildfire,5.0,11.0,5,5,0,29.0
+1561,,Natural,Climatological,Wildfire,7.0,27.0,7,10,2.0,0
+1562,,Technological,Technological,Transport accident,13.0,13.0,5,5,12.0,0
+1563,Tropical storm Matthew,Natural,Meteorological,Storm,25.0,25.0,9,9,3.0,0
+1564,,Natural,Meteorological,Storm,10.0,16.0,5,5,20.0,0
+1565,,Natural,Hydrological,Flood,26.0,13.0,1,2,41.0,0
+1566,Hurricane Frank,Natural,Meteorological,Storm,23.0,24.0,8,8,6.0,0
+1567,,Natural,Hydrological,Flood,20.0,20.0,9,9,25.0,0
+1568,,Natural,Hydrological,Flood,14.0,17.0,1,1,2.0,0
+1569,,Natural,Hydrological,Flood,10.0,17.0,9,9,6.0,9.0
+1570,,Natural,Hydrological,Flood,1.0,10.0,11,11,16.0,0
+1571,,Natural,Meteorological,Storm,12.0,16.0,5,5,5.0,58.0
+1572,Hurricane Earl,Natural,Meteorological,Storm,3.0,3.0,9,9,1.0,0
+1573,"Tropical storm ""Alex""",Natural,Meteorological,Storm,30.0,7.0,6,7,22.0,0
+1574,Hurricane Karl,Natural,Meteorological,Storm,15.0,17.0,9,9,12.0,0
+1575,Typhoon Conson (Basyang),Natural,Meteorological,Storm,12.0,15.0,7,7,146.0,91.0
+1576,,Natural,Meteorological,Storm,17.0,20.0,6,6,20.0,100.0
+1577,,Natural,Meteorological,Storm,30.0,3.0,4,5,30.0,0
+1578,,Natural,Meteorological,Storm,13.0,15.0,3,3,11.0,0
+1579,Tropical storm Hermine,Natural,Meteorological,Storm,7.0,11.0,9,9,8.0,0
+1580,"Oil platform ""Deepwater Horizon""",Technological,Technological,Industrial accident,20.0,20.0,4,4,11.0,17.0
+1581,Tropical storm Ester (Dianmu),Natural,Meteorological,Storm,9.0,9.0,8,8,31.0,0
+1582,,Natural,Geophysical,Earthquake,4.0,4.0,4,4,2.0,232.0
+1583,,Natural,Hydrological,Landslide,21.0,21.0,9,9,27.0,0
+1584,,Natural,Hydrological,Landslide,28.0,29.0,9,9,44.0,0
+1585,Helicopter Bell 412,Technological,Technological,Transport accident,17.0,18.0,6,6,11.0,0
+1586,Helicopter,Technological,Technological,Transport accident,8.0,8.0,12,12,11.0,0
+1587,,Technological,Technological,Transport accident,3.0,3.0,9,9,13.0,11.0
+1588,,Technological,Technological,Transport accident,18.0,18.0,10,10,18.0,0
+1589,,Technological,Technological,Transport accident,6.0,6.0,11,11,21.0,0
+1590,,Technological,Technological,Transport accident,15.0,15.0,6,6,11.0,4.0
+1591,Pipeline,Technological,Technological,Industrial accident,19.0,19.0,12,12,27.0,52.0
+1592,Mt. Bulusan,Natural,Geophysical,Volcanic activity,9.0,9.0,11,11,0,0
+1593,,Natural,Hydrological,Flood,15.0,15.0,8,8,0,0
+1594,,Natural,Hydrological,Flood,17.0,17.0,1,1,1.0,0
+1595,,Natural,Hydrological,Flood,28.0,1.0,5,6,27.0,0
+1596,,Natural,Hydrological,Flood,1.0,1.0,6,6,0,0
+1597,,Natural,Hydrological,Flood,13.0,31.0,7,7,0,0
+1598,,Natural,Hydrological,Landslide,1.0,1.0,1,1,2.0,2.0
+1599,Typhoon Megi (Juan),Natural,Meteorological,Storm,18.0,18.0,10,10,35.0,42.0
+1600,Dengue,Natural,Biological,Epidemic,1.0,28,1,11,737.0,123939.0
+1601,,Technological,Technological,Transport accident,6.0,6.0,3,3,12.0,11.0
+1602,,Technological,Technological,Transport accident,13.0,13.0,6,6,15.0,0
+1603,,Technological,Technological,Transport accident,18.0,18.0,8,8,40.0,9.0
+1604,,Technological,Technological,Transport accident,3.0,3.0,12,12,10.0,0
+1605,Urban slum,Technological,Technological,Miscellaneous accident,25.0,25.0,4,4,0,0
+1606,"Hotel ""Bed and Breakfast""",Technological,Technological,Miscellaneous accident,18.0,19.0,12,12,15.0,0
+1607,,Natural,Hydrological,Flood,15.0,17.0,8,9,24.0,0
+1608,Cholera,Natural,Biological,Epidemic,1,21.0,6,9,92.0,0
+1609,Meningitis,Natural,Biological,Epidemic,1,15.0,1,3,115.0,0
+1610,Measles,Natural,Biological,Epidemic,1,22.0,1,3,32.0,0
+1611,,Natural,Hydrological,Flood,5.0,28,6,10,21.0,0
+1612,,Natural,Hydrological,Flood,1,28,9,10,1.0,0
+1613,Meningitis,Natural,Biological,Epidemic,1.0,22.0,1,3,60.0,0
+1614,,Technological,Technological,Transport accident,1.0,1.0,7,7,14.0,47.0
+1615,,Natural,Meteorological,Storm,24.0,24.0,4,4,12.0,70.0
+1616,,Natural,Meteorological,Storm,5.0,11.0,2,2,2.0,0
+1617,,Natural,Meteorological,Storm,23.0,28.0,2,2,1.0,0
+1618,,Natural,Meteorological,Storm,26.0,26.0,12,12,0,0
+1619,,Natural,Geophysical,Earthquake,10.0,10.0,1,1,0,30.0
+1620,,Natural,Hydrological,Flood,27.0,31.0,3,3,0,0
+1621,,Natural,Hydrological,Flood,10.0,11.0,6,6,20.0,0
+1622,,Natural,Hydrological,Flood,19.0,19.0,12,12,0,0
+1623,"Coal mine ""Upper Big Branch""",Technological,Technological,Industrial accident,5.0,5.0,4,4,27.0,2.0
+1624,Gazoduc,Technological,Technological,Industrial accident,7.0,7.0,6,6,13.0,0
+1625,Gas pipeline,Technological,Technological,Miscellaneous accident,9.0,9.0,9,9,8.0,60.0
+1626,"Tropical storm ""Beatrix""",Natural,Meteorological,Storm,20.0,20.0,6,6,3.0,0
+1627,Typhoon Bebeng (Aere),Natural,Meteorological,Storm,8.0,11.0,5,5,37.0,11.0
+1628,"Tropical storm ""Dodong"" (Sarika)",Natural,Meteorological,Storm,9.0,10.0,6,6,9.0,1.0
+1629,"Topical storm ""Meari"" (Falcon)",Natural,Meteorological,Storm,21.0,25.0,6,6,20.0,4.0
+1630,Topical storm Juaning (Nock-ten),Natural,Meteorological,Storm,26.0,27.0,7,7,84.0,53.0
+1631,"Typhoon ""Kabayan"" (Muifa)",Natural,Meteorological,Storm,2.0,2.0,8,8,11.0,5.0
+1632,,Natural,Meteorological,Storm,29.0,1.0,5,6,3.0,200.0
+1633,,Natural,Hydrological,Flood,14.0,18.0,3,3,16.0,1.0
+1634,"Tropical Storm ""Arlene""",Natural,Meteorological,Storm,30.0,1.0,6,7,22.0,0
+1635,,Natural,Hydrological,Flood,25.0,7.0,1,2,23.0,164.0
+1636,,Natural,Hydrological,Flood,31.0,19.0,5,6,12.0,3.0
+1637,,Natural,Meteorological,Storm,31.0,2.0,1,2,39.0,0
+1638,,Natural,Climatological,Wildfire,1,28,3,5,0,0
+1639,"Tropical storm ""Dora""",Natural,Meteorological,Storm,20.0,20.0,7,7,3.0,0
+1640,,Natural,Meteorological,Storm,22.0,29.0,4,4,354.0,2200.0
+1641,,Natural,Meteorological,Extreme temperature,1.0,8.0,2,2,3.0,0
+1642,Coal mine,Technological,Technological,Industrial accident,3.0,3.0,5,5,14.0,0
+1643,Prison,Technological,Technological,Miscellaneous accident,20.0,20.0,5,5,14.0,0
+1644,Mt. Bulusan,Natural,Geophysical,Volcanic activity,21.0,21.0,2,2,0,0
+1645,,Natural,Hydrological,Flood,28.0,29.0,6,6,31.0,0
+1646,,Natural,Hydrological,Flood,1.0,4.0,2,2,11.0,0
+1647,,Natural,Hydrological,Landslide,22.0,22.0,4,4,24.0,14.0
+1648,,Natural,Hydrological,Landslide,4.0,4.0,7,7,5.0,5.0
+1649,Slum,Technological,Technological,Miscellaneous accident,14.0,15.0,2,2,1.0,6.0
+1650,,Technological,Technological,Miscellaneous accident,8.0,8.0,2,2,0,11.0
+1651,,Technological,Technological,Miscellaneous accident,29.0,29.0,1,1,12.0,0
+1652,Meningitis,Natural,Biological,Epidemic,18.0,20.0,3,3,124.0,0
+1653,,Technological,Technological,Transport accident,8.0,8.0,5,5,36.0,0
+1654,,Natural,Meteorological,Storm,14.0,16.0,4,4,46.0,43.0
+1655,,Natural,Meteorological,Storm,20.0,25.0,5,5,176.0,1150.0
+1656,,Natural,Meteorological,Storm,24.0,24.0,5,5,11.0,0
+1657,,Natural,Hydrological,Flood,1.0,24.0,5,5,1.0,0
+1658,,Natural,Meteorological,Extreme temperature,19.0,22.0,7,7,22.0,0
+1659,,Natural,Climatological,Wildfire,9.0,30.0,4,4,2.0,5.0
+1660,,Technological,Technological,Transport accident,12.0,12.0,3,3,14.0,20.0
+1661,,Natural,Meteorological,Storm,4.0,4.0,4,4,13.0,121.0
+1662,Hurricane Irene,Natural,Meteorological,Storm,28.0,29.0,8,8,1.0,0
+1663,Mt. Gamalama,Natural,Geophysical,Volcanic activity,4.0,27.0,12,12,3.0,5.0
+1664,,Natural,Hydrological,Landslide,4.0,4.0,7,7,17.0,0
+1665,,Natural,Meteorological,Extreme temperature,13.0,18.0,12,12,12.0,0
+1666,,Natural,Meteorological,Storm,21.0,24.0,8,8,1.0,20.0
+1667,,Natural,Climatological,Wildfire,14.0,16.0,5,5,1.0,0
+1668,Boeing 737,Technological,Technological,Transport accident,20.0,20.0,8,8,12.0,3.0
+1669,,Natural,Hydrological,Flood,1,28,9,9,0,0
+1670,,Technological,Technological,Transport accident,28.0,28.0,10,10,20.0,0
+1671,,Technological,Technological,Transport accident,1,28,12,12,36.0,47.0
+1672,,Natural,Geophysical,Earthquake,5.0,5.0,9,9,10.0,0
+1673,Mt. Lokon,Natural,Geophysical,Volcanic activity,11.0,17.0,7,7,0,0
+1674,,Natural,Hydrological,Flood,1.0,10.0,4,4,18.0,0
+1675,,Natural,Hydrological,Flood,18.0,22.0,12,12,10.0,0
+1676,,Natural,Hydrological,Flood,17.0,31.0,3,3,13.0,0
+1677,,Natural,Hydrological,Landslide,30.0,30.0,11,11,34.0,0
+1678,Helicopter Bell 412,Technological,Technological,Transport accident,3.0,3.0,8,8,10.0,0
+1679,Cassa 212,Technological,Technological,Transport accident,29.0,29.0,9,9,18.0,0
+1680,,Technological,Technological,Transport accident,27.0,27.0,8,8,7.0,0
+1681,,Technological,Technological,Transport accident,22.0,22.0,9,9,25.0,0
+1682,,Technological,Technological,Transport accident,17.0,17.0,12,12,203.0,0
+1683,Bridge,Technological,Technological,Miscellaneous accident,26.0,26.0,11,11,48.0,39.0
+1684,Tropical Cyclone Iggy,Natural,Meteorological,Storm,25.0,25.0,1,1,16.0,60.0
+1685,,Natural,Hydrological,Flood,24.0,2.0,6,7,139.0,0
+1686,,Natural,Hydrological,Flood,31.0,31.0,7,7,8.0,0
+1687,,Natural,Hydrological,Flood,24.0,24.0,7,7,8.0,0
+1688,,Natural,Hydrological,Flood,24.0,25.0,12,12,3.0,0
+1689,,Natural,Meteorological,Storm,6.0,6.0,4,4,25.0,121.0
+1690,,Natural,Hydrological,Flood,21.0,28.0,9,9,0,0
+1691,,Natural,Meteorological,Storm,10.0,10.0,10,10,108.0,183.0
+1692,Ferry Shariatpur 1,Technological,Technological,Transport accident,13.0,13.0,3,3,123.0,0
+1693,,Technological,Technological,Transport accident,28.0,28.0,10,10,100.0,0
+1694,,Technological,Technological,Transport accident,7.0,7.0,11,11,50.0,0
+1695,Factory,Technological,Technological,Industrial accident,25.0,25.0,11,11,121.0,0
+1696,Road,Technological,Technological,Miscellaneous accident,25.0,25.0,11,11,13.0,0
+1697,,Natural,Meteorological,Storm,24.0,27.0,12,12,0,0
+1698,,Natural,Meteorological,Storm,12.0,12.0,8,8,0,0
+1699,,Natural,Hydrological,Flood,25.0,30.0,3,3,0,0
+1700,,Technological,Technological,Transport accident,6.0,6.0,2,2,11.0,0
+1701,Cholera,Natural,Biological,Epidemic,2.0,1.0,2,9,105.0,0
+1702,,Technological,Technological,Transport accident,3.0,3.0,3,3,50.0,27.0
+1703,,Technological,Technological,Transport accident,24.0,24.0,8,8,10.0,0
+1704,,Technological,Technological,Transport accident,22.0,22.0,12,12,20.0,0
+1705,,Technological,Technological,Transport accident,31.0,31.0,8,8,30.0,0
+1706,,Natural,Meteorological,Storm,25.0,25.0,2,2,5.0,0
+1707,,Natural,Geophysical,Earthquake,11.0,11.0,4,4,7.0,107.0
+1708,,Natural,Geophysical,Earthquake,18.0,18.0,8,8,6.0,43.0
+1709,,Natural,Hydrological,Flood,12.0,12.0,9,9,0,0
+1710,,Natural,Hydrological,Flood,25.0,25.0,8,8,4.0,5.0
+1711,,Natural,Hydrological,Flood,7.0,9.0,11,11,13.0,0
+1712,,Natural,Hydrological,Flood,9.0,9.0,5,5,5.0,20.0
+1713,,Natural,Hydrological,Landslide,24.0,27.0,5,5,20.0,100.0
+1714,,Natural,Hydrological,Landslide,24.0,24.0,5,5,12.0,0
+1715,Superjet 100,Technological,Technological,Transport accident,9.0,9.0,5,5,46.0,0
+1716,Fooker F 27,Technological,Technological,Transport accident,21.0,21.0,6,6,10.0,0
+1717,,Technological,Technological,Transport accident,1.0,1.0,5,5,13.0,0
+1718,,Technological,Technological,Transport accident,17.0,17.0,6,6,58.0,0
+1719,Ferry,Technological,Technological,Transport accident,13.0,13.0,9,9,23.0,0
+1720,,Technological,Technological,Transport accident,28.0,28.0,9,9,38.0,0
+1721,,Natural,Geophysical,Earthquake,2.0,2.0,7,7,48.0,2532.0
+1722,,Natural,Hydrological,Flood,15.0,22.0,2,2,17.0,0
+1723,,Natural,Hydrological,Flood,28.0,30.0,7,7,12.0,0
+1724,,Natural,Meteorological,Storm,29.0,30.0,3,3,2.0,0
+1725,,Natural,Meteorological,Storm,22.0,22.0,3,3,31.0,388.0
+1726,Tropical cyclone Mahasen,Natural,Meteorological,Storm,16.0,16.0,5,5,17.0,65.0
+1727,Ferry,Technological,Technological,Transport accident,8.0,8.0,2,2,14.0,0
+1728,,Natural,Meteorological,Extreme temperature,21.0,22.0,12,12,10.0,0
+1729,,Natural,Hydrological,Flood,20.0,27.0,6,6,4.0,0
+1730,,Technological,Technological,Transport accident,21.0,21.0,3,3,0,100.0
+1731,,Technological,Technological,Transport accident,6.0,6.0,7,7,47.0,0
+1732,,Natural,Hydrological,Flood,1.0,17.0,8,8,0,0
+1733,Gold mine,Technological,Technological,Industrial accident,19.0,20.0,11,11,25.0,0
+1734,,Natural,Geophysical,Earthquake,22.0,22.0,1,1,1.0,15.0
+1735,,Natural,Geophysical,Earthquake,22.0,22.0,10,10,1.0,3.0
+1736,Mt. Sinabung,Natural,Geophysical,Volcanic activity,1,28,9,12,0,0
+1737,,Natural,Hydrological,Flood,17.0,31.0,1,1,34.0,0
+1738,,Natural,Hydrological,Flood,3.0,10.0,1,1,8.0,0
+1739,,Natural,Hydrological,Flood,7.0,11.0,4,4,11.0,0
+1740,,Natural,Hydrological,Flood,12.0,12.0,9,9,0,0
+1741,,Natural,Hydrological,Flood,7.0,14.0,10,10,0,0
+1742,,Natural,Hydrological,Flood,28.0,30.0,12,12,0,0
+1743,,Natural,Hydrological,Landslide,25.0,27.0,1,1,21.0,3.0
+1744,,Natural,Hydrological,Landslide,25.0,25.0,3,3,13.0,0
+1745,,Technological,Technological,Transport accident,23.0,23.0,7,7,11.0,0
+1746,,Technological,Technological,Transport accident,30.0,30.0,9,9,36.0,0
+1747,Gold mine,Technological,Technological,Industrial accident,14.0,14.0,5,5,28.0,0
+1748,Stampede,Technological,Technological,Miscellaneous accident,14.0,14.0,7,7,17.0,38.0
+1749,Hurricane Jova,Natural,Meteorological,Storm,10.0,1.0,10,11,5.0,0
+1750,Tropical storm Washi (Sendong),Natural,Meteorological,Storm,15.0,18.0,12,12,1439.0,6071.0
+1751,,Natural,Hydrological,Flood,31.0,31.0,3,3,2.0,0
+1752,,Natural,Hydrological,Flood,14.0,17.0,11,11,5.0,13.0
+1753,Typhoon Quiel (Nalgae),Natural,Meteorological,Storm,1.0,1.0,10,10,25.0,12.0
+1754,Typhoon Chedeng (Songda),Natural,Meteorological,Storm,20.0,29.0,5,5,0,0
+1755,Hurricane Nate,Natural,Meteorological,Storm,9.0,9.0,9,9,10.0,0
+1756,,Natural,Geophysical,Earthquake,11.0,11.0,12,12,2.0,2.0
+1757,,Natural,Hydrological,Flood,20.0,20.0,10,10,0,0
+1758,,Natural,Hydrological,Flood,18.0,18.0,7,7,3.0,0
+1759,,Natural,Hydrological,Flood,23.0,7.0,8,9,74.0,0
+1760,,Natural,Climatological,Drought,1,28,9,12,0,0
+1761,,Natural,Geophysical,Earthquake,7.0,7.0,11,11,0,3.0
+1762,Mt. Taal,Natural,Geophysical,Volcanic activity,17.0,18.0,3,4,0,0
+1763,,Natural,Hydrological,Flood,19.0,19.0,9,9,0,0
+1764,,Natural,Hydrological,Flood,7.0,7.0,10,10,0,0
+1765,,Natural,Hydrological,Flood,9.0,14.0,11,11,0,0
+1766,,Natural,Hydrological,Flood,5.0,5.0,5,5,0,0
+1767,,Natural,Hydrological,Flood,20.0,20.0,7,7,0,0
+1768,,Natural,Hydrological,Flood,5.0,5.0,8,8,0,0
+1769,,Natural,Hydrological,Flood,25.0,28.0,12,12,12.0,9.0
+1770,,Natural,Hydrological,Flood,21.0,21.0,12,12,10.0,0
+1771,,Natural,Hydrological,Landslide,5.0,5.0,8,8,0,0
+1772,Typhoon Mina (Nanmadol),Natural,Meteorological,Storm,27.0,29.0,8,8,43.0,37.0
+1773,Typhoon Pedring (Nesat),Natural,Meteorological,Storm,24.0,24.0,9,9,103.0,91.0
+1774,Tropical Storm Ramon (Banyan),Natural,Meteorological,Storm,13.0,13.0,10,10,11.0,6.0
+1775,Tropical Storm Haima (Egay),Natural,Meteorological,Storm,14.0,20.0,6,6,0,0
+1776,Diarrhoea,Natural,Biological,Epidemic,11.0,18.0,10,10,3.0,200.0
+1777,Cholera,Natural,Biological,Epidemic,1.0,18.0,3,4,20.0,0
+1778,Dengue,Natural,Biological,Epidemic,1.0,28,1,8,33.0,0
+1779,,Technological,Technological,Transport accident,10.0,10.0,12,12,18.0,20.0
+1780,Cargo,Technological,Technological,Transport accident,25.0,25.0,12,12,22.0,0
+1781,Cholera,Natural,Biological,Epidemic,9.0,14.0,8,10,433.0,0
+1782,,Natural,Meteorological,Storm,2.0,4.0,3,3,41.0,0
+1783,Typhoon Son Tinh (Ofel),Natural,Meteorological,Storm,25.0,25.0,10,10,36.0,19.0
+1784,Tropical storm Wukong (Quinta),Natural,Meteorological,Storm,25.0,27.0,12,12,24.0,3.0
+1785,,Natural,Geophysical,Earthquake,6.0,6.0,2,2,113.0,112.0
+1786,Tropical storm Gener (Saola),Natural,Meteorological,Storm,31.0,7.0,7,8,58.0,35.0
+1787,Typhoon Igme (Tembin),Natural,Meteorological,Storm,20.0,21.0,8,8,11.0,1.0
+1788,Typhoon Lawin (Jelawat),Natural,Meteorological,Storm,21.0,24.0,9,9,4.0,0
+1789,,Natural,Geophysical,Earthquake,20.0,20.0,3,3,2.0,11.0
+1790,Ernesto,Natural,Meteorological,Storm,10.0,10.0,8,8,12.0,0
+1791,Hurricane Carlotta,Natural,Meteorological,Storm,15.0,15.0,6,6,7.0,0
+1792,,Technological,Technological,Transport accident,20.0,20.0,4,4,43.0,20.0
+1793,,Technological,Technological,Transport accident,24.0,24.0,6,6,28.0,22.0
+1794,Gaz factory,Technological,Technological,Industrial accident,19.0,19.0,9,9,32.0,26.0
+1795,,Natural,Geophysical,Earthquake,4.0,4.0,9,9,0,1.0
+1796,,Natural,Geophysical,Earthquake,31.0,31.0,8,8,1.0,10.0
+1797,,Natural,Hydrological,Flood,11.0,11.0,6,6,0,0
+1798,,Natural,Hydrological,Flood,9.0,12.0,6,6,1.0,0
+1799,,Natural,Hydrological,Flood,17.0,17.0,1,1,4.0,0
+1800,,Natural,Hydrological,Flood,14.0,16.0,2,2,0,0
+1801,,Natural,Hydrological,Flood,20.0,27.0,2,2,0,0
+1802,,Natural,Hydrological,Flood,6.0,8.0,8,8,112.0,14.0
+1803,,Natural,Hydrological,Flood,27.0,27.0,3,3,11.0,0
+1804,,Natural,Hydrological,Flood,12.0,13.0,6,6,29.0,2.0
+1805,,Natural,Hydrological,Landslide,5.0,5.0,1,1,75.0,16.0
+1806,TYphoon Kai-Tak,Natural,Meteorological,Storm,17.0,17.0,8,8,4.0,0
+1807,Typhoon Karen,Natural,Meteorological,Storm,13.0,14.0,9,9,1.0,0
+1808,Tropical Storm Marce (Gaemi),Natural,Meteorological,Storm,3.0,3.0,10,10,0,0
+1809,Typhoon Bopha,Natural,Meteorological,Storm,4.0,4.0,12,12,1901.0,2666.0
+1810,Cholera,Natural,Biological,Epidemic,1,28,1,7,30.0,0
+1811,Ferry 'MV Josille',Technological,Technological,Transport accident,13.0,13.0,6,6,24.0,0
+1812,Shop,Technological,Technological,Miscellaneous accident,9.0,9.0,5,5,18.0,3.0
+1813,,Natural,Hydrological,Flood,15.0,24.0,7,9,20.0,0
+1814,,Natural,Hydrological,Flood,15.0,15.0,9,10,0,0
+1815,Meningitis,Natural,Biological,Epidemic,1,25.0,1,3,88.0,0
+1816,,Natural,Meteorological,Storm,30.0,30.0,6,6,1.0,0
+1817,,Natural,Meteorological,Storm,25.0,30.0,5,5,0,0
+1818,,Natural,Meteorological,Storm,6.0,7.0,6,6,0,2.0
+1819,,Natural,Meteorological,Storm,11.0,13.0,6,6,0,3.0
+1820,,Natural,Meteorological,Storm,2.0,4.0,7,7,1.0,0
+1821,,Natural,Meteorological,Storm,7.0,9.0,9,9,5.0,0
+1822,,Natural,Meteorological,Storm,22.0,23.0,1,1,2.0,100.0
+1823,,Natural,Meteorological,Storm,28.0,29.0,2,2,14.0,200.0
+1824,,Natural,Meteorological,Storm,2.0,3.0,4,4,0,0
+1825,Tropical storm Fernand,Natural,Meteorological,Storm,25.0,26.0,8,8,14.0,0
+1826,Hurricane Manuel,Natural,Meteorological,Storm,13.0,20.0,9,9,169.0,0
+1827,Hurricane Ingrid,Natural,Meteorological,Storm,12.0,17.0,9,9,23.0,0
+1828,Typhoon Usagi (Odette),Natural,Meteorological,Storm,21.0,22.0,9,9,5.0,0
+1829,,Natural,Meteorological,Storm,2.0,3.0,8,8,0,0
+1830,,Natural,Hydrological,Flood,5.0,8.0,9,9,13.0,0
+1831,,Natural,Hydrological,Flood,15.0,23.0,1,1,10.0,0
+1832,,Natural,Hydrological,Flood,13.0,21.0,8,8,31.0,30.0
+1833,,Natural,Hydrological,Flood,1.0,9.0,8,8,11.0,21.0
+1834,Tropcal storm Auring,Natural,Meteorological,Storm,3.0,10.0,1,1,1.0,0
+1835,Tropical storm Nari (SAnti),Natural,Meteorological,Storm,12.0,14.0,10,10,20.0,154.0
+1836,Typhoon Krosa (Vinta),Natural,Meteorological,Storm,31.0,31.0,10,10,4.0,0
+1837,Typhoon Haiyan (Yolanda),Natural,Meteorological,Storm,8.0,8.0,11,11,7354.0,28689.0
+1838,,Natural,Hydrological,Flood,4.0,10.0,10,10,20.0,0
+1839,Hurricane Barbara,Natural,Meteorological,Storm,29.0,29.0,5,5,4.0,0
+1840,,Technological,Technological,Transport accident,14.0,14.0,10,10,14.0,0
+1841,,Technological,Technological,Transport accident,7.0,7.0,5,5,25.0,14.0
+1842,,Technological,Technological,Transport accident,4.0,4.0,10,10,12.0,25.0
+1843,Oil company Pemex Building,Technological,Technological,Industrial accident,31.0,31.0,1,1,37.0,100.0
+1844,Fireworks,Technological,Technological,Miscellaneous accident,15.0,15.0,3,3,17.0,80.0
+1845,,Technological,Technological,Industrial accident,22.0,22.0,8,8,9.0,40.0
+1846,,Natural,Geophysical,Earthquake,15.0,15.0,10,10,230.0,976.0
+1847,,Natural,Hydrological,Flood,23.0,27.0,9,9,33.0,8.0
+1848,Typhoon Rumbia,Natural,Meteorological,Storm,30.0,30.0,6,6,7.0,4.0
+1849,Tropical storm Utor (Labuyo),Natural,Meteorological,Storm,12.0,15.0,8,8,18.0,7.0
+1850,Tropical depression Crising (Shanshan),Natural,Meteorological,Storm,20.0,21.0,2,2,6.0,4.0
+1851,,Technological,Technological,Transport accident,16.0,16.0,12,12,22.0,20.0
+1852,Ferry St Thomas Aquinas,Technological,Technological,Transport accident,17.0,17.0,8,8,137.0,0
+1853,Cholera,Natural,Biological,Epidemic,30.0,28.0,8,10,7.0,0
+1854,,Natural,Meteorological,Storm,12.0,13.0,6,6,4.0,0
+1855,,Natural,Hydrological,Flood,18.0,23.0,4,5,9.0,0
+1856,Hurricane Irene,Natural,Meteorological,Storm,27.0,13.0,8,9,46.0,0
+1857,Tropical Storm Lee,Natural,Meteorological,Storm,4.0,9.0,9,9,15.0,0
+1858,,Natural,Meteorological,Storm,29.0,31.0,10,10,29.0,0
+1859,,Natural,Meteorological,Storm,20.0,20.0,12,12,6.0,0
+1860,,Natural,Meteorological,Storm,7.0,12.0,1,1,11.0,0
+1861,,Natural,Meteorological,Storm,17.0,24.0,1,1,10.0,0
+1862,,Natural,Hydrological,Flood,6.0,9.0,8,8,2.0,0
+1863,,Natural,Hydrological,Flood,15.0,30.0,5,6,5.0,0
+1864,,Natural,Meteorological,Storm,3.0,5.0,4,4,9.0,0
+1865,,Natural,Meteorological,Storm,13.0,14.0,8,8,7.0,0
+1866,,Natural,Climatological,Wildfire,4.0,9.0,9,9,4.0,0
+1867,,Natural,Climatological,Wildfire,29.0,23.0,5,6,2.0,0
+1868,P-51 Mustang,Technological,Technological,Transport accident,19.0,19.0,9,9,10.0,60.0
+1869,,Natural,Climatological,Drought,1,28,1,11,0,0
+1870,Hurricane Sandy,Natural,Meteorological,Storm,28.0,28.0,10,10,54.0,0
+1871,,Natural,Climatological,Drought,1,28,6,12,0,0
+1872,Hurricane Isaac,Natural,Meteorological,Storm,28.0,29.0,8,8,1.0,0
+1873,,Natural,Meteorological,Storm,14.0,15.0,4,4,6.0,30.0
+1874,,Natural,Meteorological,Storm,19.0,21.0,12,12,7.0,0
+1875,,Natural,Meteorological,Storm,25.0,27.0,12,12,17.0,0
+1876,,Natural,Meteorological,Storm,18.0,23.0,1,1,3.0,1.0
+1877,,Natural,Meteorological,Storm,28.0,2.0,6,7,28.0,0
+1878,,Natural,Meteorological,Storm,28.0,29.0,4,4,1.0,100.0
+1879,,Natural,Hydrological,Flood,9.0,12.0,6,6,2.0,0
+1880,Tropical storm Debby,Natural,Meteorological,Storm,22.0,27.0,6,6,9.0,1.0
+1881,,Natural,Meteorological,Extreme temperature,30.0,19.0,6,7,123.0,0
+1882,Waldo Canyon Fire,Natural,Climatological,Wildfire,23.0,10.0,6,7,2.0,0
+1883,,Natural,Climatological,Wildfire,3.0,8.0,8,8,1.0,0
+1884,,Natural,Hydrological,Flood,12.0,19.0,9,9,9.0,0
+1885,,Natural,Meteorological,Storm,18.0,22.0,5,5,29.0,450.0
+1886,,Natural,Meteorological,Storm,15.0,17.0,5,5,6.0,100.0
+1887,,Natural,Meteorological,Storm,16.0,18.0,11,11,11.0,185.0
+1888,,Natural,Meteorological,Storm,8.0,9.0,2,2,15.0,0
+1889,,Natural,Meteorological,Storm,24.0,24.0,11,11,14.0,0
+1890,,Natural,Meteorological,Storm,17.0,19.0,4,4,3.0,0
+1891,,Natural,Meteorological,Storm,8.0,9.0,7,7,0,0
+1892,,Natural,Meteorological,Storm,29.0,30.0,1,1,3.0,18.0
+1893,,Natural,Meteorological,Storm,26.0,6.0,5,6,27.0,150.0
+1894,,Natural,Meteorological,Storm,9.0,11.0,2,2,1.0,82.0
+1895,Cleon and Dion,Natural,Meteorological,Storm,1.0,9.0,12,12,20.0,0
+1896,,Natural,Meteorological,Extreme temperature,19.0,22.0,12,12,19.0,0
+1897,,Natural,Meteorological,Storm,7.0,11.0,4,4,4.0,0
+1898,,Natural,Meteorological,Storm,18.0,19.0,3,3,2.0,0
+1899,,Natural,Hydrological,Flood,27.0,28.0,7,7,2.0,0
+1900,,Natural,Hydrological,Flood,5.0,12.0,8,8,3.0,0
+1901,,Natural,Hydrological,Flood,25.0,28.0,5,5,3.0,0
+1902,,Natural,Hydrological,Flood,22.0,29.0,4,4,5.0,0
+1903,,Natural,Hydrological,Flood,31.0,10.0,10,11,4.0,0
+1904,,Natural,Climatological,Wildfire,30.0,8.0,5,6,0,8.0
+1905,,Natural,Climatological,Wildfire,6.0,20.0,6,6,2.0,0
+1906,,Natural,Climatological,Wildfire,28.0,12.0,6,7,19.0,0
+1907,Fetilizer plant,Technological,Technological,Industrial accident,21.0,21.0,5,5,15.0,200.0
+1908,,Natural,Climatological,Wildfire,3.0,1.0,8,9,0,3.0
+1909,,Natural,Climatological,Wildfire,9.0,15.0,9,9,1.0,6.0
+1910,Measles,Natural,Biological,Epidemic,1,28,12,12,0,0
+1911,,Natural,Hydrological,Flood,11.0,10.0,8,9,59.0,447.0
+1912,,Natural,Hydrological,Flood,4.0,4.0,8,8,0,4.0
+1913,,Natural,Meteorological,Storm,27.0,28.0,4,4,16.0,12.0
+1914,,Natural,Meteorological,Storm,11.0,11.0,6,6,4.0,0
+1915,,Technological,Technological,Transport accident,3.0,3.0,2,2,41.0,0
+1916,Ferry MV Miraz,Technological,Technological,Transport accident,3.0,3.0,5,5,70.0,0
+1917,Ferry,Technological,Technological,Transport accident,4.0,4.0,8,8,130.0,0
+1918,,Natural,Meteorological,Extreme temperature,1.0,9.0,1,1,0,0
+1919,Elderly house,Technological,Technological,Miscellaneous accident,23.0,23.0,1,1,32.0,0
+1920,,Technological,Technological,Transport accident,13.0,13.0,6,6,11.0,10.0
+1921,,Technological,Technological,Transport accident,10.0,10.0,10,10,38.0,0
+1922,Stampede,Technological,Technological,Miscellaneous accident,29.0,29.0,7,7,34.0,60.0
+1923,,Natural,Meteorological,Storm,1.0,7.0,4,4,53.0,200.0
+1924,,Natural,Hydrological,Flood,23.0,30.0,6,6,20.0,20651.0
+1925,,Natural,Hydrological,Flood,25.0,27.0,7,7,11.0,0
+1926,Cyclone 'Komen',Natural,Meteorological,Storm,29.0,30.0,7,7,45.0,0
+1927,,Natural,Meteorological,Storm,2.0,3.0,5,5,13.0,0
+1928,,Natural,Meteorological,Storm,23.0,23.0,5,5,6.0,50.0
+1929,,Natural,Geophysical,Earthquake,25.0,25.0,4,4,4.0,200.0
+1930,,Natural,Hydrological,Landslide,18.0,18.0,7,7,7.0,3.0
+1931,Ferry 'MV Mostofa',Technological,Technological,Transport accident,22.0,22.0,2,2,78.0,0
+1932,,Technological,Technological,Transport accident,29.0,29.0,1,1,24.0,0
+1933,Stampede,Technological,Technological,Miscellaneous accident,10.0,10.0,7,7,27.0,50.0
+1934,Stampede,Technological,Technological,Miscellaneous accident,27.0,27.0,3,3,10.0,50.0
+1935,Shanty town,Technological,Technological,Miscellaneous accident,11.0,11.0,1,1,2.0,0
+1936,,Natural,Climatological,Wildfire,1.0,10.0,7,7,0,0
+1937,,Natural,Hydrological,Landslide,6.0,7.0,9,9,7.0,12.0
+1938,,Technological,Technological,Transport accident,20.0,20.0,3,3,10.0,11.0
+1939,,Natural,Hydrological,Flood,24.0,3.0,7,8,9.0,29.0
+1940,Cyclone Roanu,Natural,Meteorological,Storm,21.0,21.0,5,5,28.0,0
+1941,Fort McMurray wildfires,Natural,Climatological,Wildfire,1.0,4.0,5,7,0,0
+1942,,Natural,Meteorological,Storm,13.0,15.0,5,5,59.0,0
+1943,,Natural,Geophysical,Earthquake,3.0,3.0,1,1,5.0,70.0
+1944,,Natural,Hydrological,Flood,14.0,21.0,6,6,0,0
+1945,,Technological,Technological,Transport accident,10.0,10.0,2,2,15.0,30.0
+1946,,Natural,Hydrological,Flood,14.0,15.0,12,12,4.0,0
+1947,,Natural,Hydrological,Flood,26.0,28.0,2,2,3.0,0
+1948,Typhoon Henry (Matmo),Natural,Meteorological,Storm,22.0,23.0,7,7,2.0,0
+1949,Boris,Natural,Meteorological,Storm,30.0,6.0,5,6,0,0
+1950,Tropical Depression Agaton ( (Lingling),Natural,Meteorological,Storm,19.0,20.0,1,1,79.0,86.0
+1951,Topical storm Basyang (Kajiki),Natural,Meteorological,Storm,31.0,1.0,1,2,6.0,0
+1952,Typhoon Rammasun (Glenda),Natural,Meteorological,Storm,15.0,15.0,7,7,111.0,1250.0
+1953,Hurricane Odile,Natural,Meteorological,Storm,10.0,17.0,9,9,6.0,135.0
+1954,Tropical storm Trudy,Natural,Meteorological,Storm,18.0,20.0,10,10,6.0,0
+1955,Typhoon 'Hagupit' (Ruby),Natural,Meteorological,Storm,12.0,12.0,12,12,18.0,916.0
+1956,Typhoon Kalmaegi (Luis),Natural,Meteorological,Storm,10.0,16.0,9,9,4.0,1.0
+1957,Tropical strom Fung-Wong (Mario),Natural,Meteorological,Storm,17.0,22.0,9,9,22.0,16.0
+1958,,Natural,Hydrological,Flood,14.0,17.0,1,1,20.0,0
+1959,,Natural,Hydrological,Flood,24.0,28.0,1,1,0,0
+1960,,Natural,Hydrological,Flood,19.0,22.0,1,1,11.0,0
+1961,,Natural,Hydrological,Flood,30.0,5.0,8,9,4.0,0
+1962,Tropical storm 'Jangmi' (Seniang),Natural,Meteorological,Storm,28.0,31.0,12,12,72.0,0
+1963,,Natural,Hydrological,Flood,25.0,1.0,8,9,1.0,0
+1964,Tropical storm Dolly,Natural,Meteorological,Storm,4.0,8.0,9,9,1.0,0
+1965,Hurricane Marie,Natural,Meteorological,Storm,22.0,2.0,8,9,3.0,0
+1966,Hurricane Norbert,Natural,Meteorological,Storm,2.0,11.0,9,9,3.0,0
+1967,Tropical storm 'Sinlaku' (Queenie),Natural,Meteorological,Storm,27.0,28.0,11,11,12.0,0
+1968,Mt. Sinabung,Natural,Geophysical,Volcanic activity,1.0,1.0,2,2,32.0,2.0
+1969,Mt. Kelud,Natural,Geophysical,Volcanic activity,14.0,14.0,2,2,7.0,70.0
+1970,,Natural,Hydrological,Flood,8.0,7.0,1,2,32.0,0
+1971,,Natural,Hydrological,Flood,25.0,25.0,2,2,13.0,0
+1972,,Natural,Hydrological,Flood,22.0,24.0,11,11,1.0,0
+1973,,Natural,Hydrological,Landslide,28.0,28.0,1,1,19.0,0
+1974,,Natural,Hydrological,Landslide,12.0,20.0,12,12,108.0,0
+1975,Airbus A320-220,Technological,Technological,Transport accident,28.0,28.0,12,12,162.0,0
+1976,,Technological,Technological,Transport accident,30.0,30.0,7,7,19.0,0
+1977,,Technological,Technological,Transport accident,29.0,29.0,7,7,17.0,0
+1978,,Technological,Technological,Transport accident,16.0,16.0,9,9,21.0,0
+1979,Ferry,Technological,Technological,Transport accident,7.0,7.0,10,10,43.0,0
+1980,Building in construction,Technological,Technological,Industrial accident,3.0,3.0,6,6,15.0,3.0
+1981,Gold mine,Technological,Technological,Industrial accident,5.0,5.0,10,10,18.0,0
+1982,,Technological,Technological,Industrial accident,1.0,1.0,7,7,13.0,2.0
+1983,,Natural,Geophysical,Earthquake,18.0,18.0,4,4,0,0
+1984,,Natural,Geophysical,Earthquake,7.0,7.0,7,7,3.0,0
+1985,,Natural,Hydrological,Flood,13.0,3.0,6,7,0,0
+1986,Ferry Maharlika II,Technological,Technological,Transport accident,13.0,13.0,9,9,70.0,0
+1987,Fireworks,Technological,Technological,Miscellaneous accident,1.0,1.0,1,1,2.0,599.0
+1988,Mt. Mayon,Natural,Geophysical,Volcanic activity,16.0,3.0,9,12,0,0
+1989,,Technological,Technological,Transport accident,23.0,23.0,2,2,18.0,40.0
+1990,,Technological,Technological,Transport accident,15.0,15.0,4,4,47.0,15.0
+1991,,Technological,Technological,Transport accident,22.0,22.0,8,8,11.0,0
+1992,Tropical storm 'Amang' (Mekkhala),Natural,Meteorological,Storm,19.0,19.0,1,1,2.0,0
+1993,Typhoon Goni (Ineng),Natural,Meteorological,Storm,22.0,22.0,8,8,40.0,24.0
+1994,Typhoon Koppu (Lando),Natural,Meteorological,Storm,14.0,20.0,10,10,51.0,83.0
+1995,Typhoon Melor (Nona),Natural,Meteorological,Storm,14.0,15.0,12,12,46.0,24.0
+1996,,Natural,Meteorological,Storm,26.0,28.0,3,3,14.0,229.0
+1997,,Natural,Climatological,Drought,1,28,7,7,11.0,0
+1998,Tropical cyclone Linfa (Egay),Natural,Meteorological,Storm,4.0,5.0,7,7,0,0
+1999,,Natural,Hydrological,Flood,7.0,10.0,7,7,23.0,0
+2000,,Natural,Hydrological,Flood,30.0,5.0,7,8,9.0,0
+2001,,Natural,Hydrological,Flood,15.0,23.0,3,3,0,0
+2002,,Natural,Hydrological,Flood,2.0,2.0,7,7,8.0,0
+2003,Hurricane Patricia,Natural,Meteorological,Storm,22.0,28.0,10,10,14.0,0
+2004,,Natural,Geophysical,Earthquake,24.0,24.0,9,9,0,62.0
+2005,,Natural,Hydrological,Flood,23.0,25.0,1,1,1.0,0
+2006,,Natural,Hydrological,Flood,5.0,9.0,2,2,0,0
+2007,,Natural,Hydrological,Flood,30.0,2.0,1,2,2.0,0
+2008,,Natural,Hydrological,Flood,8.0,13.0,2,2,6.0,0
+2009,,Natural,Hydrological,Landslide,6.0,6.0,5,5,13.0,0
+2010,,Natural,Hydrological,Landslide,3.0,3.0,12,12,20.0,0
+2011,,Natural,Hydrological,Landslide,28.0,28.0,3,3,12.0,0
+2012,,Natural,Climatological,Wildfire,1,28,9,12,19.0,0
+2013,Hercules C-130,Technological,Technological,Transport accident,30.0,30.0,6,6,142.0,0
+2014,ATR 42300,Technological,Technological,Transport accident,16.0,16.0,8,8,54.0,0
+2015,,Technological,Technological,Transport accident,6.0,6.0,12,12,16.0,0
+2016,,Technological,Technological,Transport accident,13.0,13.0,12,12,14.0,0
+2017,Ferry,Technological,Technological,Transport accident,19.0,19.0,12,12,78.0,37.0
+2018,,Natural,Hydrological,Flood,15.0,28,7,7,0,0
+2019,,Natural,Meteorological,Storm,25.0,26.0,5,5,14.0,229.0
+2020,,Natural,Hydrological,Flood,13.0,23.0,3,3,0,0
+2021,,Technological,Technological,Transport accident,27.0,27.0,1,1,16.0,20.0
+2022,,Technological,Technological,Transport accident,26.0,26.0,3,3,18.0,3.0
+2023,,Technological,Technological,Transport accident,29.0,29.0,7,7,27.0,100.0
+2024,,Technological,Technological,Transport accident,22.0,22.0,11,11,23.0,10.0
+2025,,Technological,Technological,Transport accident,19.0,19.0,12,12,15.0,30.0
+2026,,Technological,Technological,Transport accident,13.0,13.0,2,2,20.0,31.0
+2027,,Natural,Hydrological,Flood,5.0,5.0,8,8,9.0,0
+2028,Typhoon' Maysak',Natural,Meteorological,Storm,6.0,6.0,4,4,0,0
+2029,Typhoon Noul (Dodong),Natural,Meteorological,Storm,11.0,11.0,5,5,2.0,0
+2030,Typhoon Chan-Home,Natural,Meteorological,Storm,12.0,12.0,7,7,5.0,0
+2031,Typhoon 'Soudelor' (Hanna),Natural,Meteorological,Storm,5.0,5.0,8,8,0,0
+2032,Typhoon Mujigae,Natural,Meteorological,Storm,2.0,2.0,10,10,2.0,0
+2033,Ferry 'Kim Nirvana',Technological,Technological,Transport accident,2.0,2.0,7,7,61.0,0
+2034,Shoes factory,Technological,Technological,Industrial accident,14.0,14.0,5,5,72.0,0
+2035,,Technological,Technological,Miscellaneous accident,2.0,2.0,3,3,0,0
+2036,Shanty town,Technological,Technological,Miscellaneous accident,25.0,25.0,11,11,0,0
+2037,Shanty town,Technological,Technological,Miscellaneous accident,4.0,4.0,12,12,0,0
+2038,,Natural,Hydrological,Flood,12.0,21.0,7,7,4.0,0
+2039,,Natural,Hydrological,Flood,8.0,13.0,3,3,5.0,0
+2040,,Natural,Hydrological,Flood,7.0,12.0,2,2,8.0,0
+2041,,Natural,Hydrological,Flood,7.0,8.0,3,3,6.0,0
+2042,,Natural,Hydrological,Landslide,17.0,21.0,6,6,62.0,0
+2043,,Natural,Geophysical,Earthquake,16.0,16.0,1,1,0,8.0
+2044,,Natural,Hydrological,Landslide,15.0,15.0,5,5,15.0,0
+2045,,Technological,Technological,Transport accident,26.0,26.0,6,6,12.0,0
+2046,,Natural,Hydrological,Flood,19.0,24.0,2,2,0,0
+2047,,Technological,Technological,Transport accident,11.0,11.0,1,1,21.0,0
+2048,,Technological,Technological,Transport accident,28.0,28.0,2,2,12.0,28.0
+2049,Petrochimical plant,Technological,Technological,Industrial accident,21.0,21.0,4,4,32.0,100.0
+2050,,Natural,Meteorological,Storm,24.0,25.0,2,2,1.0,0
+2051,,Natural,Hydrological,Flood,22.0,31.0,12,12,5.0,0
+2052,Boeing 777,Technological,Technological,Transport accident,6.0,6.0,7,7,3.0,182.0
+2053,,Natural,Meteorological,Storm,10.0,17.0,12,12,3.0,0
+2054,,Natural,Meteorological,Storm,26.0,27.0,7,7,0,0
+2055,,Natural,Meteorological,Storm,27.0,1.0,4,5,40.0,15.0
+2056,,Natural,Meteorological,Storm,12.0,14.0,10,10,2.0,0
+2057,,Natural,Geophysical,Earthquake,24.0,24.0,8,8,1.0,250.0
+2058,,Natural,Hydrological,Flood,2.0,5.0,12,12,0,0
+2059,,Natural,Meteorological,Storm,18.0,23.0,5,5,0,0
+2060,,Natural,Meteorological,Storm,3.0,6.0,6,6,2.0,36.0
+2061,,Natural,Meteorological,Storm,2.0,6.0,2,2,9.0,0
+2062,,Natural,Meteorological,Storm,11.0,14.0,2,2,25.0,0
+2063,,Natural,Meteorological,Storm,1.0,5.0,1,1,16.0,0
+2064,,Natural,Meteorological,Storm,26.0,29.0,1,1,13.0,0
+2065,,Natural,Meteorological,Storm,28.0,4.0,2,3,12.0,0
+2066,,Natural,Meteorological,Storm,15.0,19.0,11,11,13.0,0
+2067,,Natural,Hydrological,Flood,11.0,13.0,8,8,2.0,0
+2068,,Natural,Hydrological,Landslide,22.0,22.0,3,3,43.0,0
+2069,Hurricane Iselle,Natural,Meteorological,Storm,8.0,10.0,8,8,1.0,0
+2070,,Natural,Meteorological,Extreme temperature,5.0,8.0,1,1,21.0,0
+2071,,Natural,Climatological,Wildfire,11.0,20.0,5,5,2.0,0
+2072,,Technological,Technological,Transport accident,11.0,11.0,4,4,10.0,30.0
+2073,,Technological,Technological,Industrial accident,9.0,10.0,1,1,0,169.0
+2074,Jail,Technological,Technological,Miscellaneous accident,30.0,30.0,4,4,2.0,184.0
+2075,,Natural,Climatological,Drought,1,28,1,12,0,0
+2076,,Natural,Meteorological,Storm,6.0,13.0,5,5,4.0,0
+2077,,Natural,Meteorological,Storm,29.0,3.0,10,11,6.0,0
+2078,,Natural,Meteorological,Storm,24.0,28.0,4,4,4.0,12.0
+2079,,Natural,Meteorological,Storm,3.0,5.0,5,5,1.0,40.0
+2080,,Natural,Meteorological,Storm,3.0,8.0,6,6,0,0
+2081,,Natural,Meteorological,Storm,7.0,10.0,4,4,3.0,12.0
+2082,,Natural,Meteorological,Storm,12.0,14.0,7,7,4.0,0
+2083,Valley Fire,Natural,Climatological,Wildfire,13.0,31.0,8,8,4.0,8.0
+2084,,Natural,Meteorological,Storm,25.0,26.0,3,3,1.0,12.0
+2085,,Natural,Meteorological,Storm,2.0,4.0,8,8,4.0,40.0
+2086,Storm Octavia,Natural,Meteorological,Storm,16.0,22.0,2,2,10.0,0
+2087,,Natural,Meteorological,Storm,31.0,4.0,1,2,22.0,0
+2088,,Natural,Meteorological,Storm,26.0,30.0,12,12,50.0,60.0
+2089,,Natural,Meteorological,Storm,25.0,4.0,11,12,18.0,0
+2090,Joaquin,Natural,Meteorological,Storm,1.0,13.0,10,10,25.0,0
+2091,,Natural,Meteorological,Storm,26.0,28.0,1,1,2.0,0
+2092,,Natural,Hydrological,Flood,23.0,30.0,5,5,32.0,0
+2093,,Natural,Meteorological,Storm,6.0,13.0,5,5,6.0,0
+2094,,Natural,Meteorological,Storm,6.0,11.0,1,1,15.0,0
+2095,,Natural,Meteorological,Storm,16.0,22.0,2,2,30.0,0
+2096,,Natural,Meteorological,Storm,3.0,5.0,3,3,13.0,0
+2097,,Natural,Hydrological,Flood,24.0,24.0,5,5,16.0,0
+2098,,Natural,Hydrological,Flood,14.0,14.0,9,9,19.0,0
+2099,,Natural,Climatological,Wildfire,13.0,20.0,9,9,4.0,0
+2100,Butte fire,Natural,Climatological,Wildfire,9.0,14.0,9,9,3.0,0
+2101,Military Helicopter UH-60,Technological,Technological,Transport accident,10.0,10.0,3,3,11.0,0
+2102,,Technological,Technological,Transport accident,12.0,12.0,5,5,8.0,200.0
+2103,Storage facility,Technological,Technological,Industrial accident,23.0,23.0,10,10,0,660.0
+2104,,Natural,Climatological,Drought,1,28,1,12,0,0
+2105,,Technological,Technological,Industrial accident,20.0,20.0,5,5,0,0
+2106,,Natural,Climatological,Wildfire,22.0,13.0,7,8,1.0,0
+2107,,Natural,Hydrological,Flood,24.0,5.0,7,8,0,0
+2108,,Technological,Technological,Industrial accident,13.0,13.0,12,12,12.0,0
+2109,,Natural,Meteorological,Storm,4.0,8.0,1,1,0,0
+2110,,Natural,Meteorological,Storm,22.0,24.0,6,6,25.0,0
+2111,,Natural,Meteorological,Storm,25.0,4.0,4,5,6.0,0
+2112,,Natural,Meteorological,Storm,10.0,15.0,4,4,1.0,0
+2113,,Natural,Meteorological,Storm,8.0,11.0,5,5,2.0,10.0
+2114,,Natural,Meteorological,Storm,17.0,18.0,3,3,1.0,0
+2115,,Natural,Meteorological,Storm,22.0,25.0,3,3,0,0
+2116,,Natural,Hydrological,Flood,16.0,19.0,4,4,9.0,0
+2117,,Natural,Hydrological,Flood,27.0,2.0,5,6,15.0,0
+2118,,Natural,Meteorological,Storm,21.0,28.0,5,5,9.0,12.0
+2119,,Natural,Meteorological,Storm,4.0,12.0,3,3,7.0,0
+2120,Storm Jonas (Snowzilla),Natural,Meteorological,Storm,23.0,26.0,1,1,50.0,12.0
+2121,,Natural,Meteorological,Storm,22.0,25.0,2,2,10.0,12.0
+2122,,Natural,Climatological,Wildfire,25.0,26.0,6,6,0,0
+2123,Helicopter,Technological,Technological,Transport accident,14.0,14.0,1,1,12.0,0
+2124,,Technological,Technological,Industrial accident,6.0,6.0,1,1,0,0
+2125,,Natural,Hydrological,Flood,30.0,30.0,4,4,11.0,0
+2126,,Natural,Hydrological,Flood,19.0,2.0,7,8,106.0,0
+2127,Fishing boat 'Maha Gouri',Technological,Technological,Transport accident,13.0,13.0,8,8,17.0,0
+2128,,Technological,Technological,Transport accident,21.0,21.0,9,9,13.0,0
+2129,Packaging factory,Technological,Technological,Industrial accident,10.0,10.0,9,9,43.0,70.0
+2130,,Natural,Hydrological,Landslide,12.0,14.0,6,6,160.0,187.0
+2131,"Gustafsen, Wildwood, Elephant Hill Fires",Natural,Climatological,Wildfire,7.0,15.0,7,9,0,0
+2132,,Natural,Meteorological,Storm,1.0,1.0,5,5,12.0,0
+2133,,Natural,Hydrological,Flood,28.0,15.0,3,4,0,0
+2134,Cyclone Mora,Natural,Meteorological,Storm,30.0,30.0,5,5,7.0,12.0
+2135,Diphteria,Natural,Biological,Epidemic,3.0,12.0,11,12,15.0,789.0
+2136,Migrants,Technological,Technological,Transport accident,28.0,28.0,9,9,63.0,0
+2137,Migrants,Technological,Technological,Transport accident,8.0,8.0,10,10,40.0,0
+2138,Migrants,Technological,Technological,Transport accident,16.0,16.0,10,10,30.0,0
+2139,Textil factory,Technological,Technological,Industrial accident,3.0,3.0,7,7,13.0,0
+2140,Rush,Technological,Technological,Miscellaneous accident,18.0,18.0,12,12,10.0,15.0
+2141,,Natural,Hydrological,Flood,10.0,31.0,8,8,144.0,0
+2142,,Natural,Hydrological,Flood,5.0,20.0,5,5,2.0,0
+2143,,Natural,Hydrological,Flood,28.0,29.0,8,8,0,0
+2144,Measles,Natural,Biological,Epidemic,1,28,1,3,0,122.0
+2145,,Natural,Hydrological,Flood,4.0,4.0,7,7,0,13.0
+2146,,Natural,Hydrological,Flood,5.0,14.0,6,6,14.0,0
+2147,,Natural,Climatological,Wildfire,1,28,7,8,0,0
+2148,,Natural,Meteorological,Storm,29.0,30.0,4,4,33.0,0
+2149,,Natural,Meteorological,Extreme temperature,1.0,10.0,1,1,34.0,0
+2150,,Natural,Hydrological,Flood,20.0,22.0,5,5,21.0,0
+2151,,Natural,Meteorological,Storm,21.0,21.0,9,9,0,30.0
+2152,,Natural,Meteorological,Extreme temperature,29.0,5.0,6,7,70.0,0
+2153,,Technological,Technological,Transport accident,6.0,6.0,4,4,16.0,13.0
+2154,,Natural,Hydrological,Flood,10.0,14.0,5,5,0,0
+2155,,Technological,Technological,Transport accident,6.0,6.0,12,12,18.0,10.0
+2156,,Natural,Hydrological,Flood,27.0,5.0,4,5,1.0,0
+2157,,Natural,Meteorological,Storm,31.0,31.0,3,3,15.0,0
+2158,Cyclone 'Fani',Natural,Meteorological,Storm,4.0,4.0,5,5,39.0,45.0
+2159,,Technological,Technological,Miscellaneous accident,20.0,20.0,2,2,78.0,70.0
+2160,Slum,Technological,Technological,Miscellaneous accident,17.0,17.0,2,2,9.0,2350.0
+2161,Building,Technological,Technological,Miscellaneous accident,28.0,28.0,3,3,25.0,65.0
+2162,Gold mine,Technological,Technological,Industrial accident,3.0,3.0,2,2,17.0,0
+2163,Tropical storm 'Earl',Natural,Meteorological,Storm,6.0,7.0,8,8,54.0,0
+2164,,Natural,Hydrological,Flood,3.0,10.0,11,11,2.0,0
+2165,,Natural,Hydrological,Flood,20.0,22.0,9,9,53.0,0
+2166,,Natural,Hydrological,Flood,23.0,10.0,10,11,2.0,0
+2167,,Natural,Hydrological,Flood,30.0,7.0,11,12,10.0,0
+2168,,Natural,Hydrological,Flood,21.0,26.0,12,12,0,0
+2169,,Natural,Hydrological,Flood,3.0,6.0,9,9,3.0,0
+2170,Tropical storm Marce (Tokage),Natural,Meteorological,Storm,23.0,25.0,11,11,0,0
+2171,Typhoon Carina (Nida),Natural,Meteorological,Storm,29.0,29.0,7,7,0,0
+2172,Hurricane Newton,Natural,Meteorological,Storm,6.0,7.0,9,9,11.0,0
+2173,Typhoon Helen (Megi),Natural,Meteorological,Storm,28.0,28.0,9,9,0,0
+2174,,Natural,Geophysical,Earthquake,1.0,1.0,8,8,0,0
+2175,,Natural,Geophysical,Earthquake,7.0,7.0,12,12,104.0,857.0
+2176,,Natural,Hydrological,Flood,13.0,15.0,11,11,5.0,0
+2177,Military plane,Technological,Technological,Transport accident,18.0,18.0,12,12,13.0,0
+2178,,Technological,Technological,Transport accident,2.0,2.0,11,11,60.0,0
+2179,Gold mine,Technological,Technological,Industrial accident,26.0,26.0,10,10,11.0,0
+2180,,Natural,Hydrological,Flood,11.0,19.0,7,7,0,0
+2181,,Natural,Hydrological,Flood,29.0,5.0,9,10,5.0,0
+2182,,Natural,Hydrological,Flood,3.0,6.0,2,2,2.0,0
+2183,Fireworks market,Technological,Technological,Miscellaneous accident,20.0,20.0,12,12,42.0,72.0
+2184,,Natural,Hydrological,Flood,14.0,22.0,9,9,13.0,0
+2185,,Natural,Geophysical,Earthquake,30.0,30.0,3,3,8.0,202.0
+2186,Typhoon Butchoy (Nepartak),Natural,Meteorological,Storm,8.0,8.0,7,7,2.0,2.0
+2187,Typhoon Ferdie (Meranti),Natural,Meteorological,Storm,16.0,16.0,9,9,0,0
+2188,Typhoon Karen (Sarika),Natural,Meteorological,Storm,16.0,19.0,10,10,0,0
+2189,Typhoon Lawin (Haima),Natural,Meteorological,Storm,19.0,21.0,10,10,8.0,0
+2190,Typhoon 'Nina' (Nock-Ten),Natural,Meteorological,Storm,25.0,26.0,12,12,24.0,0
+2191,Shanty town,Technological,Technological,Miscellaneous accident,1.0,1.0,1,1,0,0
+2192,Residential area,Technological,Technological,Miscellaneous accident,18.0,18.0,6,6,0,0
+2193,Residential area,Technological,Technological,Miscellaneous accident,21.0,21.0,6,6,0,0
+2194,Residential establishment,Technological,Technological,Miscellaneous accident,13.0,13.0,11,11,2.0,0
+2195,,Natural,Hydrological,Flood,8.0,16.0,8,8,26.0,0
+2196,,Natural,Hydrological,Flood,18.0,22.0,8,8,19.0,0
+2197,,Natural,Geophysical,Earthquake,8.0,8.0,9,9,98.0,250.0
+2198,Beatriz,Natural,Meteorological,Storm,1.0,3.0,6,6,6.0,0
+2199,Hurricane 'Franklin',Natural,Meteorological,Storm,7.0,7.0,8,8,0,0
+2200,Typhoon Nesat & Haitang,Natural,Meteorological,Storm,25.0,27.0,7,7,0,0
+2201,Typhoon 'Damrey' / 'Ramil',Natural,Meteorological,Storm,1.0,3.0,11,11,6.0,0
+2202,Storm 'Tembin' (Vinta),Natural,Meteorological,Storm,21.0,26.0,12,12,58.0,0
+2203,Tropical storm 'Kai-Tak' (Urduja),Natural,Meteorological,Storm,16.0,18.0,12,12,91.0,78.0
+2204,Typhoon 'Lan'/'Paolo',Natural,Meteorological,Storm,18.0,20.0,10,10,9.0,0
+2205,Cyclone 'Cempaka',Natural,Meteorological,Storm,28.0,29.0,11,11,11.0,35.0
+2206,Hurricane Katia,Natural,Meteorological,Storm,7.0,8.0,9,9,3.0,0
+2207,Typhoon 'Doksuri',Natural,Meteorological,Storm,11.0,15.0,9,9,26.0,0
+2208,,Natural,Geophysical,Earthquake,17.0,17.0,9,9,369.0,6000.0
+2209,,Natural,Hydrological,Flood,12.0,15.0,5,5,7.0,11.0
+2210,,Natural,Hydrological,Flood,3.0,3.0,3,3,8.0,0
+2211,,Natural,Hydrological,Landslide,9.0,12.0,2,2,12.0,0
+2212,,Natural,Hydrological,Flood,3.0,17.0,11,11,9.0,0
+2213,,Natural,Geophysical,Earthquake,8.0,8.0,4,4,0,0
+2214,,Natural,Hydrological,Flood,16.0,31.0,1,1,9.0,0
+2215,Tropical storm 'Lidia',Natural,Meteorological,Storm,30.0,2.0,8,9,20.0,0
+2216,,Natural,Geophysical,Earthquake,15.0,15.0,12,12,4.0,36.0
+2217,,Natural,Hydrological,Flood,29.0,29.0,4,4,12.0,4.0
+2218,,Natural,Hydrological,Flood,19.0,24.0,11,11,2.0,0
+2219,,Natural,Hydrological,Flood,1.0,3.0,6,6,4.0,0
+2220,,Natural,Hydrological,Landslide,1.0,1.0,4,4,28.0,17.0
+2221,,Technological,Technological,Transport accident,14.0,14.0,7,7,10.0,9.0
+2222,,Technological,Technological,Transport accident,30.0,30.0,4,4,11.0,50.0
+2223,,Technological,Technological,Transport accident,1.0,1.0,1,1,40.0,0
+2224,Firework factory,Technological,Technological,Industrial accident,26.0,26.0,10,10,46.0,10.0
+2225,,Natural,Hydrological,Flood,21.0,21.0,2,2,2.0,0
+2226,Mt. Agung,Natural,Geophysical,Volcanic activity,22.0,28.0,9,11,0,0
+2227,,Natural,Hydrological,Flood,26.0,7.0,9,10,2.0,0
+2228,,Technological,Technological,Transport accident,13.0,13.0,4,4,24.0,9.0
+2229,,Technological,Technological,Transport accident,21.0,21.0,5,5,17.0,31.0
+2230,,Technological,Technological,Transport accident,12.0,12.0,12,12,11.0,12.0
+2231,,Technological,Technological,Transport accident,19.0,19.0,12,12,12.0,2.0
+2232,Firework depot,Technological,Technological,Miscellaneous accident,8.0,9.0,5,5,14.0,22.0
+2233,,Natural,Geophysical,Earthquake,10.0,10.0,2,2,8.0,202.0
+2234,,Natural,Geophysical,Earthquake,6.0,6.0,7,7,3.0,448.0
+2235,,Natural,Hydrological,Flood,22.0,24.0,9,9,0,0
+2236,Tropical depression 02W (Crising),Natural,Meteorological,Storm,15.0,15.0,4,4,10.0,10.0
+2237,Tropical storm 'Pakhar'/'Jolina',Natural,Meteorological,Storm,25.0,26.0,8,8,0,0
+2238,,Technological,Technological,Transport accident,18.0,18.0,4,4,25.0,22.0
+2239,Bus collision,Technological,Technological,Transport accident,25.0,25.0,12,12,20.0,26.0
+2240,Ferry 'Mercraft 3',Technological,Technological,Transport accident,21.0,21.0,12,12,14.0,0
+2241,Export facility factory,Technological,Technological,Industrial accident,1.0,1.0,2,2,0,126.0
+2242,Slum,Technological,Technological,Miscellaneous accident,7.0,8.0,2,2,0,7.0
+2243,Shopping mall,Technological,Technological,Miscellaneous accident,23.0,23.0,12,12,39.0,0
+2244,,Natural,Hydrological,Flood,1.0,7.0,2,2,13.0,0
+2245,Tropical storm 'Basyang' (Sanba),Natural,Meteorological,Storm,12.0,16.0,2,2,0,0
+2246,Tropical depression 'Usman',Natural,Meteorological,Storm,28.0,31.0,12,12,182.0,105.0
+2247,,Natural,Geophysical,Earthquake,28.0,28.0,9,9,4140.0,0
+2248,Oil well,Technological,Technological,Industrial accident,25.0,25.0,4,4,21.0,38.0
+2249,,Natural,Hydrological,Flood,11.0,12.0,10,10,35.0,0
+2250,,Natural,Hydrological,Flood,26.0,4.0,11,12,13.0,0
+2251,,Natural,Hydrological,Flood,22.0,26.0,3,3,3.0,1.0
+2252,,Natural,Hydrological,Flood,6.0,10.0,12,12,9.0,0
+2253,,Natural,Hydrological,Flood,21.0,23.0,2,2,20.0,0
+2254,Typhoon Mangkut (Ompong),Natural,Meteorological,Storm,16.0,16.0,9,9,84.0,138.0
+2255,Typhoon 'Yutu' (Rosita),Natural,Meteorological,Storm,30.0,30.0,10,10,12.0,2.0
+2256,,Natural,Geophysical,Earthquake,5.0,5.0,8,8,564.0,1584.0
+2257,Anak Krakatoa,Natural,Geophysical,Volcanic activity,22.0,22.0,12,12,453.0,14059.0
+2258,,Natural,Hydrological,Landslide,22.0,22.0,2,2,15.0,14.0
+2259,Tropical storm 'Vicente',Natural,Meteorological,Storm,19.0,23.0,10,10,14.0,0
+2260,Tyhoon 'Son Tinh',Natural,Meteorological,Storm,17.0,31.0,7,7,16.0,0
+2261,,Natural,Geophysical,Earthquake,23.0,23.0,1,1,1.0,11.0
+2262,,Natural,Geophysical,Earthquake,29.0,29.0,7,7,14.0,135.0
+2263,,Natural,Geophysical,Earthquake,19.0,19.0,8,8,10.0,24.0
+2264,Mt. Agung,Natural,Geophysical,Volcanic activity,14.0,14.0,1,1,0,0
+2265,Boeing 737,Technological,Technological,Transport accident,29.0,29.0,10,10,189.0,0
+2266,,Technological,Technological,Transport accident,8.0,8.0,9,9,21.0,0
+2267,,Technological,Technological,Transport accident,18.0,18.0,6,6,180.0,0
+2268,Ferry 'KM Lestari',Technological,Technological,Transport accident,4.0,4.0,7,7,34.0,0
+2269,Ferry,Technological,Technological,Transport accident,14.0,14.0,9,9,13.0,0
+2270,,Natural,Hydrological,Flood,5.0,6.0,3,3,0,0
+2271,,Natural,Geophysical,Earthquake,16.0,16.0,2,2,0,4.0
+2272,,Natural,Hydrological,Flood,20.0,23.0,9,9,20.0,0
+2273,Hurricane Willa,Natural,Meteorological,Storm,23.0,23.0,10,10,6.0,0
+2274,Helicopter,Technological,Technological,Transport accident,16.0,16.0,2,2,14.0,0
+2275,,Technological,Technological,Transport accident,20.0,20.0,7,7,13.0,0
+2276,Fireworks depot,Technological,Technological,Miscellaneous accident,5.0,5.0,7,7,12.0,0
+2277,Mt. Mayon,Natural,Geophysical,Volcanic activity,13.0,6.0,1,3,0,0
+2278,Agaton (01W),Natural,Meteorological,Storm,1.0,3.0,1,1,3.0,9.0
+2279,Tropical Storm Yagi,Natural,Meteorological,Storm,19.0,19.0,9,9,5.0,0
+2280,Measles,Natural,Biological,Epidemic,1,28,1,12,202.0,21812.0
+2281,Bi-moteur Piper PA-23,Technological,Technological,Transport accident,17.0,17.0,3,3,10.0,0
+2282,,Natural,Hydrological,Flood,13.0,17.0,1,1,11.0,0
+2283,Gold mine,Technological,Technological,Industrial accident,26.0,26.0,2,2,13.0,0
+2284,,Natural,Hydrological,Flood,17.0,17.0,1,1,2.0,0
+2285,,Natural,Hydrological,Flood,6.0,8.0,3,3,9.0,4.0
+2286,,Natural,Hydrological,Flood,25.0,27.0,4,5,18.0,2.0
+2287,,Natural,Hydrological,Landslide,21.0,23.0,1,1,84.0,47.0
+2288,,Natural,Geophysical,Earthquake,28.0,28.0,2,2,0,48.0
+2289,,Natural,Geophysical,Earthquake,17.0,17.0,3,3,9.0,45.0
+2290,,Natural,Hydrological,Flood,16.0,18.0,3,3,206.0,915.0
+2291,,Natural,Hydrological,Landslide,20.0,20.0,3,3,5.0,0
+2292,,Natural,Hydrological,Flood,25.0,26.0,4,4,2.0,0
+2293,,Natural,Hydrological,Flood,9.0,14.0,6,6,1.0,0
+2294,Bombardier Challenger 601,Technological,Technological,Transport accident,5.0,5.0,5,5,13.0,0
+2295,,Technological,Technological,Transport accident,7.0,7.0,3,3,23.0,33.0
+2296,Oleoduc,Technological,Technological,Industrial accident,18.0,18.0,1,1,125.0,22.0
+2297,,Natural,Geophysical,Earthquake,22.0,22.0,4,4,25.0,282.0
+2298,Tropical depression 'Amang' (01W),Natural,Meteorological,Storm,18.0,25.0,1,1,0,0
+2299,Measles,Natural,Biological,Epidemic,1.0,27.0,1,4,333.0,22967.0
+2300,,Natural,Climatological,Drought,1,28,3,4,0,0
+2301,Sugar Refinery,Technological,Technological,Industrial accident,7.0,7.0,2,2,13.0,40.0
+2302,Hurricane Hermine,Natural,Meteorological,Storm,1.0,6.0,9,9,3.0,0
+2303,,Natural,Hydrological,Flood,19.0,23.0,9,9,1.0,0
+2304,,Natural,Meteorological,Storm,26.0,1.0,11,12,8.0,33.0
+2305,,Natural,Meteorological,Storm,13.0,19.0,12,12,22.0,0
+2306,Hurricane 'Matthew',Natural,Meteorological,Storm,8.0,12.0,10,10,49.0,0
+2307,,Natural,Geophysical,Earthquake,7.0,7.0,11,11,0,0
+2308,Sand Fire,Natural,Climatological,Wildfire,24.0,1.0,7,8,2.0,0
+2309,Clayton Fire,Natural,Climatological,Wildfire,13.0,16.0,8,8,0,0
+2310,,Natural,Climatological,Wildfire,1,31.0,11,12,14.0,191.0
+2311,Ballooning,Technological,Technological,Transport accident,30.0,30.0,7,7,16.0,0
+2312,,Technological,Technological,Transport accident,23.0,23.0,10,10,13.0,31.0
+2313,,Technological,Technological,Transport accident,29.0,29.0,9,9,1.0,110.0
+2314,Party in a festival,Technological,Technological,Miscellaneous accident,2.0,2.0,12,12,36.0,2.0
+2315,,Natural,Hydrological,Flood,9.0,16.0,8,8,13.0,0
+2316,,Natural,Hydrological,Flood,8.0,13.0,3,3,5.0,0
+2317,,Natural,Meteorological,Storm,6.0,13.0,1,1,3.0,0
+2318,,Natural,Hydrological,Flood,28.0,1.0,4,5,20.0,70.0
+2319,,Natural,Meteorological,Storm,5.0,8.0,8,8,0,30.0
+2320,,Natural,Meteorological,Storm,8.0,21.0,2,2,5.0,0
+2321,,Natural,Meteorological,Storm,25.0,29.0,6,6,0,0
+2322,,Natural,Meteorological,Storm,25.0,28.0,3,3,1.0,0
+2323,Hurricane Harvey,Natural,Meteorological,Storm,25.0,29.0,8,8,88.0,24.0
+2324,,Natural,Meteorological,Storm,27.0,2.0,2,3,4.0,12.0
+2325,,Natural,Hydrological,Flood,1,28,8,9,0,0
+2326,,Natural,Meteorological,Storm,9.0,11.0,5,5,0,0
+2327,,Natural,Meteorological,Storm,6.0,9.0,3,3,2.0,15.0
+2328,,Natural,Meteorological,Storm,9.0,12.0,6,6,0,2.0
+2329,,Natural,Meteorological,Storm,5.0,6.0,11,11,0,8.0
+2330,Hurricane 'Irma',Natural,Meteorological,Storm,10.0,28.0,9,9,97.0,0
+2331,,Natural,Climatological,Drought,1,28,3,5,0,0
+2332,Cholera,Natural,Biological,Epidemic,14.0,11.0,8,10,58.0,652.0
+2333,,Natural,Meteorological,Storm,13.0,15.0,3,3,11.0,12.0
+2334,,Natural,Meteorological,Storm,18.0,23.0,1,1,24.0,200.0
+2335,,Natural,Hydrological,Flood,15.0,15.0,7,7,10.0,0
+2336,,Natural,Hydrological,Flood,22.0,22.0,2,2,0,0
+2337,Hurricane 'Maria',Natural,Meteorological,Storm,26.0,27.0,9,9,4.0,0
+2338,Tropical depression'16/Hurricane 'Nate',Natural,Meteorological,Storm,7.0,8.0,10,10,0,0
+2339,"Wall Fire, Alamo Fire, Whittier Fire",Natural,Climatological,Wildfire,6.0,10.0,7,7,0,0
+2340,"Tubbs, Atlas, Nuns Fires",Natural,Climatological,Wildfire,1.0,31.0,6,12,43.0,185.0
+2341,Military plane KC-130,Technological,Technological,Transport accident,10.0,10.0,7,7,16.0,0
+2342,,Technological,Technological,Transport accident,4.0,4.0,1,1,0,103.0
+2343,Cosmetics factory,Technological,Technological,Industrial accident,20.0,20.0,11,11,1.0,125.0
+2344,,Natural,Climatological,Drought,1.0,31.0,3,12,0,0
+2345,Appartment building,Technological,Technological,Miscellaneous accident,28.0,28.0,12,12,13.0,3.0
+2346,'Thomas',Natural,Climatological,Wildfire,4.0,31.0,12,12,2.0,2.0
+2347,,Natural,Meteorological,Storm,1.0,3.0,3,3,9.0,0
+2348,,Natural,Hydrological,Flood,14.0,15.0,4,4,0,0
+2349,Kilauea,Natural,Geophysical,Volcanic activity,3.0,30.0,5,5,0,0
+2350,Carr and Mendocino Complex fires,Natural,Climatological,Wildfire,27.0,31.0,7,8,14.0,0
+2351,,Natural,Meteorological,Storm,6.0,7.0,8,8,0,18.0
+2352,,Natural,Meteorological,Storm,13.0,15.0,4,4,3.0,0
+2353,,Natural,Hydrological,Flood,15.0,20.0,10,10,5.0,0
+2354,,Natural,Meteorological,Storm,3.0,5.0,1,1,22.0,0
+2355,,Natural,Meteorological,Storm,26.0,28.0,12,12,2.0,0
+2356,Hurricane Florence,Natural,Meteorological,Storm,12.0,18.0,9,9,53.0,0
+2357,,Natural,Hydrological,Landslide,8.0,14.0,1,1,21.0,28.0
+2358,Hurricane Michael,Natural,Meteorological,Storm,10.0,11.0,10,10,49.0,0
+2359,,Natural,Meteorological,Storm,19.0,22.0,7,7,0,0
+2360,,Technological,Technological,Transport accident,27.0,27.0,7,7,11.0,2.0
+2361,,Natural,Meteorological,Storm,21.0,24.0,1,1,10.0,0
+2362,,Natural,Hydrological,Flood,3.0,11.0,9,9,2.0,0
+2363,,Natural,Meteorological,Storm,13.0,15.0,5,5,5.0,0
+2364,Tropical storm 'Alberto',Natural,Meteorological,Storm,27.0,30.0,5,5,5.0,0
+2365,Camp Fire,Natural,Climatological,Wildfire,1.0,31.0,6,12,88.0,0
+2366,,Technological,Technological,Transport accident,6.0,6.0,10,10,20.0,0
+2367,,Technological,Technological,Transport accident,19.0,19.0,7,7,17.0,0
+2368,,Natural,Climatological,Drought,1,28,1,12,0,0
+2369,Woolsey Fire,Natural,Climatological,Wildfire,8.0,21.0,11,11,2.0,3.0
+2370,,Natural,Hydrological,Flood,25.0,1.0,2,3,1.0,0
+2371,,Natural,Meteorological,Storm,23.0,25.0,2,2,2.0,12.0
+2372,,Natural,Meteorological,Storm,18.0,21.0,1,1,10.0,0
+2373,,Natural,Hydrological,Flood,26.0,4.0,2,3,1.0,0
+2374,,Natural,Meteorological,Storm,13.0,14.0,4,4,8.0,12.0
+2375,,Natural,Hydrological,Flood,14.0,31.0,3,3,5.0,0
+2376,,Natural,Meteorological,Storm,29.0,31.0,1,1,22.0,0
+2377,,Natural,Meteorological,Storm,24.0,26.0,4,4,5.0,0
+2378,,Natural,Meteorological,Storm,31.0,2.0,10,11,1.0,0
+2379,,Natural,Meteorological,Storm,11.0,15.0,1,1,13.0,57.0
+2380,,Natural,Meteorological,Storm,3.0,4.0,3,3,28.0,90.0
+2381,,Natural,Hydrological,Landslide,2.0,8.0,7,7,2.0,16.0
+2382,Tropical cyclone 'Bulbul',Natural,Meteorological,Storm,9.0,10.0,11,11,40.0,71.0
+2383,,Technological,Technological,Transport accident,24.0,24.0,6,6,4.0,100.0
+2384,,Technological,Technological,Transport accident,12.0,12.0,11,11,16.0,58.0
+2385,Factory,Technological,Technological,Industrial accident,15.0,15.0,12,12,10.0,0
+2386,Slum,Technological,Technological,Miscellaneous accident,27.0,27.0,8,8,0,0
+2387,,Natural,Hydrological,Flood,15.0,30.0,6,9,257.0,0
+2388,,Natural,Meteorological,Storm,13.0,14.0,6,6,0,0
+2389,Cyclone 'Amphan',Natural,Meteorological,Storm,20.0,20.0,5,5,26.0,0
+2390,Migrants,Technological,Technological,Transport accident,10.0,10.0,2,2,15.0,20.0
+2391,Ferry 'Morning Bird',Technological,Technological,Transport accident,29.0,29.0,6,6,50.0,0
+2392,Mosquee,Technological,Technological,Miscellaneous accident,6.0,6.0,9,9,24.0,13.0
+2393,,Natural,Hydrological,Flood,26.0,30.0,4,4,1.0,0
+2394,,Natural,Hydrological,Flood,2.0,6.0,6,6,7.0,0
+2395,,Natural,Hydrological,Flood,19.0,21.0,12,12,6.0,0
+2396,,Natural,Geophysical,Earthquake,14.0,14.0,7,7,8.0,134.0
+2397,,Natural,Climatological,Wildfire,1,28,2,9,0,0
+2398,Tropical cyclone 'Lorena',Natural,Meteorological,Storm,20.0,20.0,9,9,1.0,0
+2399,Tropical storm 'Fernand',Natural,Meteorological,Storm,5.0,6.0,9,9,1.0,0
+2400,Gold mine,Technological,Technological,Industrial accident,7.0,7.0,11,11,10.0,0
+2401,,Natural,Geophysical,Earthquake,2.0,2.0,8,8,6.0,4.0
+2402,,Natural,Geophysical,Earthquake,26.0,26.0,9,9,31.0,179.0
+2403,,Natural,Hydrological,Flood,12.0,17.0,12,12,14.0,0
+2404,,Technological,Technological,Transport accident,17.0,17.0,6,6,12.0,43.0
+2405,,Technological,Technological,Transport accident,23.0,23.0,12,12,28.0,13.0
+2406,Ferry,Technological,Technological,Transport accident,17.0,17.0,6,6,22.0,39.0
+2407,Ferry,Technological,Technological,Transport accident,23.0,23.0,8,8,22.0,0
+2408,Matches factory,Technological,Technological,Industrial accident,21.0,21.0,6,6,30.0,0
+2409,,Natural,Hydrological,Flood,3.0,9.0,6,6,2.0,0
+2410,,Natural,Hydrological,Flood,26.0,27.0,10,10,0,0
+2411,Tropical storm 'Narda',Natural,Meteorological,Storm,30.0,30.0,9,9,2.0,0
+2412,,Technological,Technological,Transport accident,29.0,29.0,5,5,21.0,30.0
+2413,,Technological,Technological,Transport accident,18.0,18.0,12,12,14.0,12.0
+2414,,Natural,Hydrological,Flood,28.0,28.0,6,6,2.0,0
+2415,,Natural,Hydrological,Flood,27.0,4.0,11,12,3.0,0
+2416,,Natural,Geophysical,Earthquake,13.0,13.0,7,7,0,52.0
+2417,,Natural,Geophysical,Earthquake,27.0,27.0,7,7,9.0,64.0
+2418,,Natural,Geophysical,Earthquake,16.0,16.0,10,10,7.0,215.0
+2419,,Natural,Geophysical,Earthquake,29.0,29.0,10,10,10.0,395.0
+2420,,Natural,Geophysical,Earthquake,31.0,31.0,10,10,23.0,417.0
+2421,,Natural,Hydrological,Flood,4.0,5.0,4,4,4.0,0
+2422,,Natural,Hydrological,Flood,11.0,15.0,6,6,7.0,3.0
+2423,,Natural,Hydrological,Flood,6.0,8.0,12,12,2.0,2.0
+2424,,Natural,Hydrological,Flood,13.0,26.0,2,2,6.0,0
+2425,,Natural,Hydrological,Flood,20.0,28.0,4,4,0,0
+2426,,Natural,Hydrological,Flood,8.0,8.0,5,5,7.0,0
+2427,,Natural,Hydrological,Flood,3.0,31.0,7,7,105.0,51.0
+2428,,Natural,Hydrological,Flood,21.0,31.0,10,10,15.0,0
+2429,Tropical storm 'Cristobal',Natural,Meteorological,Storm,3.0,3.0,6,6,0,0
+2430,,Natural,Hydrological,Flood,8.0,10.0,8,8,3.0,0
+2431,,Natural,Hydrological,Flood,9.0,10.0,11,11,27.0,0
+2432,,Natural,Hydrological,Flood,19.0,22.0,1,1,10.0,0
+2433,Hurricane 'Hanna',Natural,Meteorological,Storm,25.0,26.0,7,7,5.0,0
+2434,,Natural,Hydrological,Flood,6.0,7.0,9,9,0,5.0
+2435,,Natural,Geophysical,Earthquake,4.0,4.0,6,6,0,0
+2436,Lewotolo Volcano,Natural,Geophysical,Volcanic activity,29.0,31.0,11,12,0,0
+2437,Mount Semeru,Natural,Geophysical,Volcanic activity,1.0,1.0,12,12,0,0
+2438,,Natural,Hydrological,Flood,4.0,6.0,3,3,2.0,0
+2439,,Natural,Hydrological,Flood,9.0,16.0,4,4,0,0
+2440,,Natural,Hydrological,Flood,22.0,4.0,5,6,4.0,0
+2441,,Natural,Hydrological,Flood,1.0,1.0,8,8,0,0
+2442,,Natural,Hydrological,Flood,12.0,15.0,12,12,0,0
+2443,,Natural,Hydrological,Flood,11.0,11.0,2,2,0,0
+2444,,Natural,Hydrological,Landslide,28.0,28.0,9,9,11.0,0
+2445,Migrants,Technological,Technological,Transport accident,23.0,23.0,1,1,10.0,0
+2446,,Natural,Hydrological,Flood,14.0,15.0,1,1,0,0
+2447,,Natural,Hydrological,Flood,23.0,28.0,1,1,10.0,0
+2448,,Natural,Hydrological,Flood,28.0,29.0,1,1,9.0,22.0
+2449,,Natural,Hydrological,Flood,26.0,28.0,2,2,10.0,0
+2450,,Natural,Hydrological,Flood,20.0,21.0,3,3,0,0
+2451,,Natural,Hydrological,Flood,29.0,1.0,3,4,1.0,0
+2452,,Natural,Hydrological,Flood,30.0,5.0,4,5,2.0,0
+2453,,Natural,Hydrological,Flood,3.0,5.0,6,6,0,0
+2454,,Natural,Hydrological,Flood,18.0,19.0,6,6,0,0
+2455,,Natural,Hydrological,Flood,2.0,10.0,12,12,5.0,0
+2456,,Natural,Geophysical,Earthquake,23.0,23.0,6,6,10.0,24.0
+2457,Tropical storm 'Gamma',Natural,Meteorological,Storm,2.0,6.0,10,10,6.0,0
+2458,Hurricane 'Eta',Natural,Meteorological,Storm,2.0,4.0,11,11,31.0,0
+2459,Hurricane 'Zeta',Natural,Meteorological,Storm,7.0,11.0,10,10,0,0
+2460,Tropical cyclone 'Kalmaegi' (Ramon),Natural,Meteorological,Storm,17.0,17.0,11,11,0,0
+2461,Tropical cyclone 'Phanfone' (Ursula),Natural,Meteorological,Storm,24.0,28.0,12,12,63.0,369.0
+2462,,Natural,Hydrological,Landslide,27.0,27.0,9,9,52.0,37.0
+2463,,Natural,Meteorological,Storm,23.0,31.0,5,5,3.0,150.0
+2464,,Natural,Meteorological,Storm,16.0,18.0,12,12,18.0,0
+2465,,Natural,Meteorological,Storm,27.0,3.0,11,12,10.0,0
+2466,Tropical cyclone 'Dorian',Natural,Meteorological,Storm,28.0,6.0,8,9,10.0,0
+2467,Tropical storm ' Imelda',Natural,Meteorological,Storm,17.0,21.0,9,9,5.0,0
+2468,,Natural,Geophysical,Earthquake,15.0,15.0,12,12,14.0,210.0
+2469,Tropical cyclone 'Danas',Natural,Meteorological,Storm,18.0,18.0,7,7,4.0,0
+2470,Tropical cyclone 'Podul',Natural,Meteorological,Storm,27.0,28.0,8,8,2.0,2.0
+2471,Tropical cyclone 'Nakri',Natural,Meteorological,Storm,10.0,10.0,11,11,19.0,3.0
+2472,Tropical cyclone 'Kammuri' (Tisoy),Natural,Meteorological,Storm,2.0,3.0,12,12,4.0,318.0
+2473,Dengue,Natural,Biological,Epidemic,1.0,29.0,1,6,492.0,106630.0
+2474,,Technological,Technological,Transport accident,9.0,9.0,6,6,13.0,0
+2475,,Technological,Technological,Transport accident,1.0,1.0,11,11,19.0,20.0
+2476,,Natural,Hydrological,Flood,3.0,23.0,6,6,0,0
+2477,,Natural,Hydrological,Flood,1,28,9,9,0,0
+2478,,Natural,Meteorological,Storm,20.0,21.0,10,10,4.0,0
+2479,,Natural,Geophysical,Earthquake,5.0,5.0,7,7,0,0
+2480,Tropical cylone 'Barry',Natural,Meteorological,Storm,13.0,15.0,7,7,1.0,0
+2481,Saddleridge fire & Sandalwood fire,Natural,Climatological,Wildfire,10.0,17.0,10,10,3.0,12.0
+2482,Kincade Fire,Natural,Climatological,Wildfire,26.0,31.0,10,10,0,2.0
+2483,Bimoteur,Technological,Technological,Transport accident,21.0,21.0,6,6,11.0,0
+2484,Bimotor,Technological,Technological,Transport accident,30.0,30.0,6,6,10.0,0
+2485,Tourist boat 'Conception',Technological,Technological,Transport accident,2.0,2.0,9,9,67.0,0
+2486,,Natural,Hydrological,Flood,6.0,9.0,6,6,3.0,0
+2487,Typhoon 'Goni' (Rolly),Natural,Meteorological,Storm,31.0,1.0,10,11,31.0,399.0
+2488,Tyhoon 'Ulysses' (Vamco),Natural,Meteorological,Storm,11.0,12.0,11,11,111.0,85.0
+2489,,Natural,Meteorological,Storm,20.0,23.0,5,5,2.0,0
+2490,,Natural,Meteorological,Storm,10.0,10.0,11,11,11.0,0
+2491,Hurricane 'Eta',Natural,Meteorological,Storm,8.0,12.0,11,11,12.0,0
+2492,,Natural,Hydrological,Flood,17.0,20.0,5,5,1.0,0
+2493,,Natural,Meteorological,Storm,6.0,9.0,4,4,0,0
+2494,,Natural,Meteorological,Storm,2.0,3.0,5,5,2.0,0
+2495,,Natural,Climatological,Drought,1,28,1,12,45.0,0
+2496,Tropical depression 'Vicky' (Krovanh),Natural,Meteorological,Storm,18.0,21.0,12,12,9.0,2.0
+2497,,Natural,Meteorological,Storm,10.0,14.0,4,4,38.0,200.0
+2498,,Natural,Meteorological,Storm,21.0,24.0,4,4,3.0,31.0
+2499,,Natural,Meteorological,Storm,10.0,12.0,1,1,10.0,0
+2500,Hurricane 'Hanna',Natural,Meteorological,Storm,25.0,25.0,7,7,0,0
+2501,Hurricane 'Delta',Natural,Meteorological,Storm,7.0,11.0,10,10,4.0,0
+2502,Hurricane 'Sally',Natural,Meteorological,Storm,11.0,18.0,9,9,8.0,0
+2503,Hurricane 'Zeta',Natural,Meteorological,Storm,24.0,30.0,10,10,6.0,0
+2504,Hurricane 'Laura',Natural,Meteorological,Storm,27.0,28.0,8,8,33.0,0
+2505,,Natural,Geophysical,Earthquake,18.0,18.0,8,8,1.0,20.0
+2506,Taal volcano,Natural,Geophysical,Volcanic activity,12.0,22.0,1,1,1.0,0
+2507,,Natural,Hydrological,Landslide,21.0,21.0,12,12,10.0,11.0
+2508,Tropical Cyclone 'Vongfong' (Ambo),Natural,Meteorological,Storm,15.0,17.0,5,5,5.0,169.0
+2509,Tropical depression 'Ofel',Natural,Meteorological,Storm,13.0,14.0,10,10,3.0,0
+2510,Typhoon 'Molave' (Quinta),Natural,Meteorological,Storm,28.0,28.0,10,10,31.0,40.0
+2511,Fishing boat 'Liberty 5' and cargo 'Vienna Wood',Technological,Technological,Transport accident,29.0,29.0,6,6,14.0,0
+2512,,Natural,Hydrological,Flood,20.0,21.0,4,4,0,0
+2513,,Natural,Hydrological,Flood,1.0,12.0,8,10,3.0,0
+2514,,Natural,Hydrological,Flood,1.0,31.0,9,10,11.0,0
+2515,,Natural,Meteorological,Storm,8.0,12.0,8,8,4.0,0
+2516,,Natural,Meteorological,Storm,27.0,27.0,5,5,0,0
+2517,,Natural,Meteorological,Storm,2.0,5.0,3,3,25.0,300.0
+2518,,Natural,Meteorological,Storm,27.0,28.0,3,3,0,0
+2519,,Natural,Hydrological,Flood,10.0,17.0,2,2,0,0
+2520,Tropical storm 'Cristobal',Natural,Meteorological,Storm,7.0,7.0,6,6,1.0,0
+2521,Hurricane 'Isaias',Natural,Meteorological,Storm,31.0,2.0,7,8,16.0,0
+2522,August Complex fire,Natural,Climatological,Wildfire,16.0,1.0,8,10,32.0,0
+2523,,,,,0,0,0,0,0,0
